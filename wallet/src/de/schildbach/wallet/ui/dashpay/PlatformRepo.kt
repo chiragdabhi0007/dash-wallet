@@ -1185,4 +1185,17 @@ class PlatformRepo private constructor(val walletApplication: WalletApplication)
     fun loadProfileByUserId(userId: String): LiveData<DashPayProfile?> {
         return dashPayProfileDaoAsync.loadByUserIdDistinct(userId)
     }
+
+    /**
+     * adds a dash pay profile to the database if it is not present
+     * or updates it the dashPayProfile is newer
+     *
+     * @param dashPayProfile
+     */
+    suspend fun addOrUpdateDashPayProfile(dashPayProfile: DashPayProfile) {
+        val currentProfile = dashPayProfileDao.loadByUserId(dashPayProfile.userId)
+        if (currentProfile == null || (currentProfile.updatedAt < dashPayProfile.updatedAt)) {
+            updateDashPayProfile(dashPayProfile)
+        }
+    }
 }
