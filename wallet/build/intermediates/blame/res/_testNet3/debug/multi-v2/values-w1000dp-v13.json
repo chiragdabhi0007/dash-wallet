@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/incremental/merge_testNet3DebugResources/merged.dir/values-w1000dp-v13/values-w1000dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/values-w1000dp/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,111",
+                        "endColumns": "54,56",
+                        "endOffsets": "106,163"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,56",
+                        "endOffsets": "105,162"
+                    }
+                }
+            ]
+        }
+    ]
+}

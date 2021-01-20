@@ -1,0 +1,590 @@
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:58
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:348
+-keep class androidx.core.content.FileProvider { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:472
+-keep class androidx.lifecycle.ProcessLifecycleOwnerInitializer { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:478
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:331
+-keep class com.e.liquid_integration.ui.BuyDashCryptoActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:319
+-keep class com.e.liquid_integration.ui.BuyDashWithCreditCardActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:323
+-keep class com.e.liquid_integration.ui.BuyDashWithCryptoCurrencyActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:68
+-keep class com.e.liquid_integration.ui.LiquidBuyAndSellDashActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:327
+-keep class com.e.liquid_integration.ui.LiquidLoginActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:71
+-keep class com.e.liquid_integration.ui.LiquidSplashActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:335
+-keep class com.e.liquid_integration.ui.SellDashActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:451
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:464
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:458
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:434
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:424
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:430
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:400
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:440
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:483
+-keep class com.jakewharton.processphoenix.ProcessPhoenix { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:468
+-keep class com.squareup.picasso.PicassoProvider { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:58
+-keep class de.schildbach.wallet.WalletApplication { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:358
+-keep class de.schildbach.wallet.WalletBalanceWidgetProvider { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:344
+-keep class de.schildbach.wallet.data.AddressBookProvider { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:373
+-keep class de.schildbach.wallet.offline.AcceptBluetoothService { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:370
+-keep class de.schildbach.wallet.service.BlockchainServiceImpl { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:392
+-keep class de.schildbach.wallet.service.BlockchainSyncJobService { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:377
+-keep class de.schildbach.wallet.service.BootstrapReceiver { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:389
+-keep class de.schildbach.wallet.service.InactivityNotificationService { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:386
+-keep class de.schildbach.wallet.service.UpgradeWalletService { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:277
+-keep class de.schildbach.wallet.ui.AboutActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:180
+-keep class de.schildbach.wallet.ui.AddressBookActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:269
+-keep class de.schildbach.wallet.ui.AdvancedSecurityActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:313
+-keep class de.schildbach.wallet.ui.AppUpgradeActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:199
+-keep class de.schildbach.wallet.ui.BlockInfoActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:90
+-keep class de.schildbach.wallet.ui.BuyAndSellLiquidUpholdActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:185
+-keep class de.schildbach.wallet.ui.ExchangeRatesActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:301
+-keep class de.schildbach.wallet.ui.ForgotPinActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:339
+-keep class de.schildbach.wallet.ui.LiquidTransferActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:248
+-keep class de.schildbach.wallet.ui.LockScreenActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:256
+-keep class de.schildbach.wallet.ui.MoreActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:190
+-keep class de.schildbach.wallet.ui.NetworkMonitorActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:93
+-keep class de.schildbach.wallet.ui.OnboardingActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:285
+-keep class de.schildbach.wallet.ui.PaymentsActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:289
+-keep class de.schildbach.wallet.ui.QuickReceiveActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:293
+-keep class de.schildbach.wallet.ui.ReceiveActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:174
+-keep class de.schildbach.wallet.ui.RequestCoinsActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:203
+-keep class de.schildbach.wallet.ui.RestoreWalletActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:264
+-keep class de.schildbach.wallet.ui.RestoreWalletFromSeedActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:260
+-keep class de.schildbach.wallet.ui.SecurityActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:169
+-keep class de.schildbach.wallet.ui.SendCoinsQrActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:252
+-keep class de.schildbach.wallet.ui.SetPinActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:273
+-keep class de.schildbach.wallet.ui.SettingsActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:281
+-keep class de.schildbach.wallet.ui.ToolsActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:297
+-keep class de.schildbach.wallet.ui.TransactionResultActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:309
+-keep class de.schildbach.wallet.ui.UpholdTransferActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:108
+-keep class de.schildbach.wallet.ui.VerifySeedActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:112
+-keep class de.schildbach.wallet.ui.ViewSeedActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:116
+-keep class de.schildbach.wallet.ui.WalletActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:228
+-keep class de.schildbach.wallet.ui.WalletUriHandlerActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:305
+-keep class de.schildbach.wallet.ui.WelcomeActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:195
+-keep class de.schildbach.wallet.ui.preference.PreferenceActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:216
+-keep class de.schildbach.wallet.ui.scan.ScanActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:144
+-keep class de.schildbach.wallet.ui.send.SendCoinsActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:139
+-keep class de.schildbach.wallet.ui.send.SendCoinsInternalActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:222
+-keep class de.schildbach.wallet.ui.send.SweepWalletActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:245
+-keep class org.dash.wallet.integration.uphold.ui.UpholdAccountActivity { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:241
+-keep class org.dash.wallet.integration.uphold.ui.UpholdSplashActivity { <init>(); }
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_alert_dialog_button_bar_material.xml:43
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_alert_dialog_title_material.xml:57
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/packaged_res/debug/layout/alert_dialog_button_bar.xml:32
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_alert_dialog.xml:51
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_alert_dialog_actions.xml:45
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_alert_dialog_title.xml:41
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_cascading_menu_item_layout.xml:20
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_popup_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_action_mode_bar.xml:19
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_screen_toolbar.xml:43
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_alert_dialog_material.xml:18
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_alert_dialog.xml:17
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/packaged_res/debug/layout/alert_dialog_button_bar.xml:23
+-keep class androidx.appcompat.widget.AppCompatButton { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_alert_dialog_button_bar_material.xml:26
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/packaged_res/debug/layout/alert_dialog_button_bar.xml:12
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_alert_dialog_actions.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_alert_dialog_title_material.xml:45
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_alert_dialog_title.xml:36
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_dialog_title_material.xml:22
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_screen_simple.xml:17
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_onboarding.xml:2
+-keep class androidx.appcompat.widget.LinearLayoutCompat { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/menu/exchange_rates_fragment_options.xml:5
+-keep class androidx.appcompat.widget.SearchView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_advanced_security.xml:82
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_security.xml:108
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/d54a90b2fd361ea956af3be0ec0ec3db/preference-1.1.1/res/layout/preference_widget_switch_compat.xml:20
+-keep class androidx.appcompat.widget.SwitchCompat { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_screen_toolbar.xml:36
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/packaged_res/debug/layout/activity_buy_dash_crypto.xml:11
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/packaged_res/debug/layout/activity_buy_dash_crypto_new.xml:11
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_forgot_pin.xml:10
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/packaged_res/debug/layout/activity_liquid_buy_and_sell_dash.xml:10
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_payments.xml:11
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/packaged_res/debug/layout/activity_sell_dash.xml:9
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/packaged_res/debug/layout/activity_webview_quick_exchange.xml:9
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/address_book_onepane.xml:8
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/packaged_res/debug/layout/app_bar_general.xml:11
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/packaged_res/debug/layout/app_bar_main.xml:12
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/exchange_rates_content.xml:8
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/ext_app_bar_layout.xml:1
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/home_content.xml:70
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/network_monitor_onepane.xml:9
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/uphold-integration/build/intermediates/packaged_res/debug/layout/uphold_account_screen.xml:9
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_screen_simple.xml:25
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/7c43ba711de42f05d4f5112da23e904d/browser-1.2.0/res/layout/browser_actions_context_menu_page.xml:17
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fragment_enter_pin.xml:17
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_about.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_advanced_security.xml:56
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_app_update.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_forgot_pin.xml:23
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_lock_screen.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_more.xml:25
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_recover_wallet_from_seed.xml:15
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_security.xml:26
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_settings.xml:16
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_tools.xml:15
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_view_seed.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_welcome.xml:2
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout/banner.xml:19
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/block_row.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/enter_amount_fragment.xml:21
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/exchange_rate_row.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fragment_its_import_to_secure.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fragment_secure_wallet.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fragment_welcome.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/lock_fingerprint_view.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/payment_request_wait_error_view.xml:19
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/peer_list_row.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/receive_info_view.xml:36
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/sweep_wallet_fragment.xml:23
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/transaction_result_content.xml:128
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/transaction_row.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/unable_to_connect_view.xml:11
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/verify_seed_verify.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/verify_seed_write_down.xml:2
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_app_update.xml:10
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_forgot_pin.xml:27
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_lock_screen.xml:11
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/enter_amount_fragment.xml:27
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/global_footer_view.xml:91
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/payment_request_wait_error_view.xml:25
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/payments_button_view.xml:47
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/unable_to_connect_view.xml:17
+-keep class androidx.constraintlayout.widget.Guideline { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/design_bottom_sheet_dialog.xml:26
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/home_content.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_onepane_vertical.xml:35
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/layout/abc_alert_dialog_material.xml:41
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/packaged_res/debug/layout/activity_liquid_buy_and_sell_dash.xml:24
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_alert_dialog.xml:40
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/home_activity.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_onepane_horizontal.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_onepane_vertical.xml:2
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/d54a90b2fd361ea956af3be0ec0ec3db/preference-1.1.1/res/layout/preference_widget_seekbar.xml:70
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/d54a90b2fd361ea956af3be0ec0ec3db/preference-1.1.1/res/layout/preference_widget_seekbar_material.xml:77
+-keep class androidx.preference.UnPressableLinearLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/d54a90b2fd361ea956af3be0ec0ec3db/preference-1.1.1/res/layout/image_frame.xml:33
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/d54a90b2fd361ea956af3be0ec0ec3db/preference-1.1.1/res/layout/preference.xml:32
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/d54a90b2fd361ea956af3be0ec0ec3db/preference-1.1.1/res/layout/preference_dropdown.xml:39
+-keep class androidx.preference.internal.PreferenceImageView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/block_list_fragment.xml:11
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/packaged_res/debug/layout/dialog_filter_by_currency.xml:36
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/dialog_liquid_all_curriencies.xml:39
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/packaged_res/debug/layout/dialog_select_cryptocurrency.xml:26
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/exchange_rates_fragment.xml:34
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_calendar_horizontal.xml:29
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_calendar_months.xml:18
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/peer_list_fragment.xml:20
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/d54a90b2fd361ea956af3be0ec0ec3db/preference-1.1.1/res/layout/preference_recyclerview.xml:18
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_transactions_fragment.xml:62
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_welcome.xml:59
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/address_book_onepane.xml:32
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/network_monitor_onepane.xml:60
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/verify_seed_verify.xml:16
+-keep class com.google.android.flexbox.FlexboxLayout { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/packaged_res/debug/layout/app_bar_general.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/packaged_res/debug/layout/app_bar_main.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/home_content.xml:19
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/home_content.xml:24
+-keep class com.google.android.material.appbar.CollapsingToolbarLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/test_toolbar.xml:16
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/test_toolbar_custom_background.xml:16
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/test_toolbar_elevation.xml:16
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/test_toolbar_surface.xml:16
+-keep class com.google.android.material.appbar.MaterialToolbar { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_calendar_month_navigation.xml:32
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_picker_header_fullscreen.xml:36
+-keep class com.google.android.material.button.MaterialButton { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/test_action_chip.xml:17
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/test_chip_zero_corner_radius.xml:17
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/test_reflow_chipgroup.xml:25
+-keep class com.google.android.material.chip.Chip { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/test_reflow_chipgroup.xml:19
+-keep class com.google.android.material.chip.ChipGroup { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_calendar_month.xml:18
+-keep class com.google.android.material.datepicker.MaterialCalendarGridView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_onepane_vertical.xml:56
+-keep class com.google.android.material.floatingactionbutton.FloatingActionButton { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/design_text_input_end_icon.xml:18
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/design_text_input_start_icon.xml:18
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_picker_header_toggle.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/navigation_layout.xml:2
+-keep class com.google.android.material.navigation.NavigationView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/design_layout_snackbar.xml:18
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/design_layout_snackbar_include.xml:18
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_payments.xml:32
+-keep class com.google.android.material.tabs.TabItem { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_payments.xml:20
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/address_book_onepane.xml:22
+-keep class com.google.android.material.tabs.TabLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_picker_text_input_date.xml:31
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_picker_text_input_date_range.xml:32
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_picker_text_input_date.xml:26
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/mtrl_picker_text_input_date_range.xml:26
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/text_view_with_line_height_from_appearance.xml:17
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/text_view_with_line_height_from_layout.xml:17
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/text_view_with_line_height_from_style.xml:17
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/text_view_with_theme_line_height.xml:17
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/layout/text_view_without_line_height.xml:17
+-keep class com.google.android.material.textview.MaterialTextView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout/banner.xml:32
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout/image.xml:20
+-keep class com.google.firebase.inappmessaging.display.internal.ResizableImageView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout-land/card_landscape_inner.xml:2
+-keep class com.google.firebase.inappmessaging.display.internal.layout.CardLayoutLandscape { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout/card_portrait_inner.xml:2
+-keep class com.google.firebase.inappmessaging.display.internal.layout.CardLayoutPortrait { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout/card.xml:3
+-keep class com.google.firebase.inappmessaging.display.internal.layout.FiamCardView { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout/banner.xml:2
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout/image.xml:2
+-keep class com.google.firebase.inappmessaging.display.internal.layout.FiamFrameLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout/modal.xml:5
+-keep class com.google.firebase.inappmessaging.display.internal.layout.FiamRelativeLayout { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout-land/modal.xml:13
+-keep class com.google.firebase.inappmessaging.display.internal.layout.ModalLayoutLandscape { <init>(...); }
+
+# Referenced at /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/res/layout/modal_portrait_inner.xml:2
+-keep class com.google.firebase.inappmessaging.display.internal.layout.ModalLayoutPortrait { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_welcome.xml:43
+-keep class com.tbuonomo.viewpagerdotsindicator.DotsIndicator { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/block_explorer_content.xml:2
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/network_monitor_twopanes.xml:66
+-keep class de.schildbach.wallet.ui.BlockListFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/send_coins_content.xml:19
+-keep class de.schildbach.wallet.ui.EnterAmountFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/exchange_rates_content.xml:16
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_twopanes.xml:19
+-keep class de.schildbach.wallet.ui.ExchangeRatesFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_onepane_vertical.xml:40
+-keep class de.schildbach.wallet.ui.ExtAppBarLayout { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/home_content.xml:35
+-keep class de.schildbach.wallet.ui.HeaderBalanceFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/network_monitor_twopanes.xml:38
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/peer_monitor_content.xml:2
+-keep class de.schildbach.wallet.ui.PeerListFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/request_coins_content.xml:20
+-keep class de.schildbach.wallet.ui.RequestCoinsFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_bottom_include.xml:10
+-keep class de.schildbach.wallet.ui.WalletActionsFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/nav_header_main.xml:13
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_onepane_horizontal.xml:22
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_twopanes.xml:55
+-keep class de.schildbach.wallet.ui.WalletAddressFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_onepane_horizontal.xml:49
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_twopanes.xml:46
+-keep class de.schildbach.wallet.ui.WalletBalanceFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/packaged_res/debug/layout/app_bar_main.xml:20
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/ext_app_bar_layout.xml:16
+-keep class de.schildbach.wallet.ui.WalletBalanceToolbarFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_bottom_include.xml:17
+-keep class de.schildbach.wallet.ui.WalletDisclaimerFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/home_content.xml:11
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_onepane_horizontal.xml:66
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_onepane_vertical.xml:48
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_activity_twopanes.xml:72
+-keep class de.schildbach.wallet.ui.WalletTransactionsFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/xml/preference_headers.xml:10
+-keep class de.schildbach.wallet.ui.preference.AboutFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/xml/preference_headers.xml:7
+-keep class de.schildbach.wallet.ui.preference.DiagnosticsFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/xml/preference_headers.xml:4
+-keep class de.schildbach.wallet.ui.preference.SettingsFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/scan_activity.xml:12
+-keep class de.schildbach.wallet.ui.scan.ScannerView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/send_coins_content.xml:12
+-keep class de.schildbach.wallet.ui.send.SendCoinsFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/sweep_wallet_content.xml:13
+-keep class de.schildbach.wallet.ui.send.SweepWalletFragment { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_advanced_security.xml:160
+-keep class de.schildbach.wallet.ui.widget.CustomSeekBar { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_lock_screen.xml:94
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/backup_wallet_to_seed_dialog.xml:78
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/encrypt_keys_dialog.xml:108
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/encrypt_new_key_chain_dialog.xml:64
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fingerprint_dialog.xml:6
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fragment_enter_pin.xml:72
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/unlock_wallet_dialog.xml:55
+-keep class de.schildbach.wallet.ui.widget.FingerprintView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/home_activity.xml:10
+-keep class de.schildbach.wallet.ui.widget.GlobalFooterView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/backup_wallet_dialog.xml:82
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/backup_wallet_to_seed_dialog.xml:147
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/encrypt_keys_dialog.xml:80
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/network_monitor_onepane.xml:31
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/report_issue_dialog.xml:30
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/request_coins_form_include.xml:61
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/restore_wallet_dialog.xml:41
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/restore_wallet_from_external_dialog.xml:24
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/verify_seed_write_down.xml:33
+-keep class de.schildbach.wallet.ui.widget.MontserratCheckBox { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_lock_screen.xml:192
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_set_pin.xml:76
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/enter_amount_fragment.xml:172
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fragment_enter_pin.xml:105
+-keep class de.schildbach.wallet.ui.widget.NumericKeyboardView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fragment_payment_protocol.xml:9
+-keep class de.schildbach.wallet.ui.widget.PaymentRequestWaitErrorView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fragment_payments_pay.xml:10
+-keep class de.schildbach.wallet.ui.widget.PaymentsButtonView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_lock_screen.xml:84
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_set_pin.xml:35
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fragment_enter_pin.xml:64
+-keep class de.schildbach.wallet.ui.widget.PinPreviewView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/dialog_receive_details.xml:40
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/fragment_payments_receive.xml:9
+-keep class de.schildbach.wallet.ui.widget.ReceiveInfoView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/home_content.xml:92
+-keep class de.schildbach.wallet.ui.widget.ShortcutsPane { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/request_coins_form_include.xml:23
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/uphold-integration/build/intermediates/packaged_res/debug/layout/uphold_withdrawal_dialog.xml:43
+-keep class org.dash.wallet.common.ui.CurrencyAmountView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_buy_and_sell_liquid_uphold.xml:208
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/block_row_transaction.xml:30
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/exchange_rate_row.xml:37
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/header_balance_fragment.xml:72
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/sweep_wallet_fragment.xml:149
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/transaction_result_content.xml:64
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/transaction_row.xml:88
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/uphold-integration/build/intermediates/packaged_res/debug/layout/uphold_account_screen.xml:82
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_balance_fragment.xml:14
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/wallet_balance_toolbar_fragment.xml:36
+-keep class org.dash.wallet.common.ui.CurrencyTextView { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_lock_screen.xml:132
+-keep class org.dash.wallet.ui.widget.LockScreenButton { <init>(...); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_security.xml:26
+-keepclassmembers class * { *** backupWallet(android.view.View); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_security.xml:73
+-keepclassmembers class * { *** changePin(android.view.View); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_security.xml:144
+-keepclassmembers class * { *** openAdvancedSecurity(android.view.View); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_advanced_security.xml:351
+-keepclassmembers class * { *** resetToDefault(android.view.View); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_security.xml:167
+-keepclassmembers class * { *** resetWallet(android.view.View); }
+
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/res/layout/activity_security.xml:51
+-keepclassmembers class * { *** viewRecoveryPhrase(android.view.View); }
+

@@ -1,0 +1,1546 @@
+[
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_settings.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_settings.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_view_shadow_right.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/view_shadow_right.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_view_shadow_top.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/view_shadow_top.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_local_offer_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_local_offer_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/raw_send_coins_broadcast_4.wav.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/raw/send_coins_broadcast_4.wav"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_please_wait_1.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_please_wait_1.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_encrypt_new_key_chain_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/encrypt_new_key_chain_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_shortcut_secure_now.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_shortcut_secure_now.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_payment_protocol.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_payment_protocol.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/anim_slide_in_left.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_appwidget_dark_bg.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/appwidget_dark_bg.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_custom_pin_preview_item_dot.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/custom_pin_preview_item_dot.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_view_shadow_left.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/view_shadow_left.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_fingerprint_black_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_fingerprint_black_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_buy_sell_dash.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_buy_sell_dash.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_send_flipped_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_send_flipped_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu-v21_sending_addresses_context.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu-v21/sending_addresses_context.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-v21_selectable_item_background.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-v21/selectable_item_background.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_receive.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_receive.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/xml_preference_headers.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/xml/preference_headers.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_appwidget_divider.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/appwidget_divider.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_dialog_liquid_all_curriencies.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/dialog_liquid_all_curriencies.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xxhdpi_welcome_screenshot_3.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xxhdpi/welcome_screenshot_3.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_row_arrow.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_row_arrow.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/anim_fade_out.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_transactions_list_filter_sent.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/transactions_list_filter_sent.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/raw_send_coins_broadcast_2.wav.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/raw/send_coins_broadcast_2.wav"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_shortcut_buy_sell_dash.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_shortcut_buy_sell_dash.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_right_round_corners_checked.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/right_round_corners_checked.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_please_wait_3.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_please_wait_3.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_scan_qr.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_scan_qr.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_shortcut_receive.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_shortcut_receive.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/anim_shake.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/anim/shake.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_encrypt_keys_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/encrypt_keys_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_home.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_home.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_security_filled_orange.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/security_filled_orange.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/color_inverted_button.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/color/inverted_button.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_splash_activity_slogan.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/splash_activity_slogan.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/xml_shortcuts.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/xml/shortcuts.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_bitmap_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/bitmap_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_forgot_pin.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_forgot_pin.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_fragment_welcome.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_balance_prefix_micro.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/balance_prefix_micro.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_nav_header_main.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_drawable_filter_background.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/drawable_filter_background.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_dash_d_circle.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_dash_d_circle.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_share_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_share_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_transaction_result_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/transaction_result_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_block_explorer_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/block_explorer_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_security_filled_red.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/security_filled_red.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_exchange_rates_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/exchange_rates_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_network_monitor_twopanes.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/network_monitor_twopanes.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_more_focused.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_more_focused.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_expand_more_blue.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_expand_more_blue.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/anim_slide_out_bottom.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_dash_d.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_dash_d.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/anim_slide_in_bottom.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_request_coins_fragment_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/request_coins_fragment_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_top_separator.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/top_separator.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_transactions_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_transactions_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_preferences_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/preferences_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_sell.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_sell.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/xml_file_provider.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/xml/file_provider.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xxhdpi_splash_activity_slogan.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xxhdpi/splash_activity_slogan.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_more_vert_grey600_18dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_more_vert_grey600_18dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_enter_amount_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/enter_amount_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/anim_slide_out_right.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_widget_preview.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/widget_preview.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_shortcut_button.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/shortcut_button.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_wallet_safety_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/wallet_safety_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_more_vert_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_more_vert_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_show_balance.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_show_balance.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_view_shadow_bottom.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/view_shadow_bottom.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_sweep_wallet_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/sweep_wallet_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_pin_item_more.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_pin_item_more.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_receive_info_view.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/receive_info_view.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_selectable_round_corners.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/selectable_round_corners.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_seekbar_step.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/seekbar_step.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_stat_sys_peers_3.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/stat_sys_peers_3.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_close_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_close_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_round_checkbox_unchecked.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/round_checkbox_unchecked.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_buy.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_buy.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_shortcut_scan_qr.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/shortcut_scan_qr.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_onboarding.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_payment_request_wait_error_view.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/payment_request_wait_error_view.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_successful_transaction.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_successful_transaction.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_lock_quick_receive.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_lock_quick_receive.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_sending_addresses_fragment_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/sending_addresses_fragment_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_appwidget_button_right.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/appwidget_button_right.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_fragment_enter_pin.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/fragment_enter_pin.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_transaction_row.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/transaction_row.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_sweep_wallet_decrypt_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/sweep_wallet_decrypt_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_activity_twopanes.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_activity_twopanes.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_divider_currency.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/divider_currency.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_lock_screen.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_lock_screen.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_activity_onepane_vertical.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_activity_onepane_vertical.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_tools.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_tools.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_please_wait_anim.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/please_wait_anim.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_row_separator.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/row_separator.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/xml_preference_about.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/xml/preference_about.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_activity_onepane_horizontal.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_activity_onepane_horizontal.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_payments_button_view.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/payments_button_view.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_check_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_check_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_transaction_info.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_transaction_info.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_transaction_details_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/transaction_details_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_uphold_tranfser.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_uphold_tranfser.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_convert.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_convert.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_appwidget_inner_pressed_r.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/appwidget_inner_pressed_r.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_expand_less.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_expand_less.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_stat_sys_peers_1.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/stat_sys_peers_1.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/xml_preference_diagnostics.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/xml/preference_diagnostics.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_balance_widget_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_balance_widget_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_restore_wallet_from_seed_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/restore_wallet_from_seed_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_check_animated.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/check_animated.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_verify_seed_success.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/verify_seed_success.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_top_bottom_separator.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/top_bottom_separator.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_onboarding_perm_lock.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_onboarding_perm_lock.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_fingerprint.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_fingerprint.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_request_coins_activity_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/request_coins_activity_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_appwidget_inner_focused_l.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/appwidget_inner_focused_l.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_restore_wallet_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/restore_wallet_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_address_book_twopanes.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/address_book_twopanes.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_balance_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_balance_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_info_outline_black_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_info_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_report_issue_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/report_issue_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_arrow_downward_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_arrow_downward_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_stat_sys_peers_0.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/stat_sys_peers_0.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_appwidget_dark_bg_clickable.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/appwidget_dark_bg_clickable.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_sync_status_pane.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/sync_status_pane.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_app_icon.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/anim_slide_in_top.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/anim_fade_in.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_appwidget_inner_pressed_l.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/appwidget_inner_pressed_l.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_exchenge.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_exchenge.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_peer_list_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/peer_list_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_send_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_send_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/anim_shake_pin.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/anim/shake_pin.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_photo_camera_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_photo_camera_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_white_progress.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/white_progress.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_view_payment_request_details.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/view_payment_request_details.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_copy_addres.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_copy_addres.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_home_active.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_home_active.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_home_button_selector.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/home_button_selector.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_fingerprint_white.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_fingerprint_white.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_lock_scan_to_pay.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_lock_scan_to_pay.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_stat_sys_peers_2.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/stat_sys_peers_2.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_dash_d_black.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_dash_d_black.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_appwidget_inner_focused_c.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/appwidget_inner_focused_c.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_transaction_sent.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_transaction_sent.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_exchange_rates_fragment_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/exchange_rates_fragment_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_delete_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_maintenance_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/maintenance_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_wallet_addresses_context.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/wallet_addresses_context.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_blue_circle.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/blue_circle.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_seekbar_thumb.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/seekbar_thumb.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_search_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_contact_support.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_contact_support.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_shortcut_add.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_shortcut_add.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_round_corners_white_bg.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/round_corners_white_bg.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_unlock_wallet_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/unlock_wallet_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_appwidget_inner_focused_r.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/appwidget_inner_focused_r.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_wallet_addresses_fragment_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/wallet_addresses_fragment_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_refresh_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_refresh_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_action_filter.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_action_filter.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/color_tab_title_color.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/color/tab_title_color.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_extended_public_key_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/extended_public_key_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_welcome.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_appwidget_dark_bg.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/appwidget_dark_bg.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_dash_d_gray.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_dash_d_gray.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_navigation_layout.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/navigation_layout.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_appwidget_dark_bg_pressed.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/appwidget_dark_bg_pressed.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_creditcard.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_creditcard.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_masternode_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/masternode_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/xml_preference_settings.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/xml/preference_settings.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_wallet_transactions_fragment_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/wallet_transactions_fragment_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_quick_receive.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_quick_receive.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_fragment_payment_protocol.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/fragment_payment_protocol.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_balance_toolbar_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_balance_toolbar_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_global_footer_view.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/global_footer_view.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_selectable_item_background.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/selectable_item_background.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/anim_transaction_layout_anim.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/anim/transaction_layout_anim.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_dash_symbol_gray.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_dash_symbol_gray.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_transaction_received.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_transaction_received.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_safety_white.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_safety_white.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_restore_wallet_file_row.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/restore_wallet_file_row.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_backup_wallet_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/backup_wallet_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_dialog_receive_details.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/dialog_receive_details.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xxhdpi_welcome_screenshot_1.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xxhdpi/welcome_screenshot_1.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xxhdpi_splash_activity_background.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xxhdpi/splash_activity_background.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_qrcode.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_qrcode.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-v21_selectable_round_corners.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-v21/selectable_round_corners.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_home.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_payments.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_payments.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_safety.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_safety.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_inverted_button.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/inverted_button.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_divider_dark.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/divider_dark.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_fragment_payments_receive.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/fragment_payments_receive.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_activity_bottom_include.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_activity_bottom_include.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_security.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_security.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_qrcode_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_qrcode_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_view_seed.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_view_seed.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_arrow_upward_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_arrow_upward_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_header_balance_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/header_balance_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/raw_send_coins_broadcast_3.wav.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/raw/send_coins_broadcast_3.wav"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_wallet_transactions_context.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/wallet_transactions_context.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_dash_fiat_amount_layout.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/dash_fiat_amount_layout.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_please_wait_0.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_please_wait_0.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_shortcut_pay_to_address.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_shortcut_pay_to_address.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/color_round_button_text.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/color/round_button_text.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_splash_activity_slogan.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/splash_activity_slogan.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_wallet_buy_and_sell.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/wallet_buy_and_sell.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_block_row_transaction.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/block_row_transaction.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_verify_seed.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_verify_seed.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_shortcut_request_coins.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/shortcut_request_coins.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_ext_app_bar_layout.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/ext_app_bar_layout.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_pin_item_inactive_white.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_pin_item_inactive_white.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_word_button_drawable.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/word_button_drawable.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_shortcut_import_key.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_shortcut_import_key.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_dash_logo_white.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/dash_logo_white.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_advanced_security.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_advanced_security.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_buy_and_sell_liquid_uphold.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_buy_and_sell_liquid_uphold.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_custom_pin_preview_background_gray.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/custom_pin_preview_background_gray.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_sending_addresses_context.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/sending_addresses_context.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xxhdpi_welcome_screenshot_2.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xxhdpi/welcome_screenshot_2.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/raw_coins_received.wav.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/raw/coins_received.wav"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_settings.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_splash_activity_background.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/splash_activity_background.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_manage.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_payment_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/payment_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_transactions_list_filter_received.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/transactions_list_filter_received.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_wallet_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/wallet_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_unable_to_connect_view.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/unable_to_connect_view.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_item_currency.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/item_currency.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_shortcut_scan_to_pay.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_shortcut_scan_to_pay.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_verify_seed_word_button.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/verify_seed_word_button.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_stat_sys_peers.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/stat_sys_peers.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_lock_login_with_fingerprint.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_lock_login_with_fingerprint.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_fragment_its_import_to_secure.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/fragment_its_import_to_secure.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xxhdpi_security_red.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xxhdpi/security_red.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_network_monitor_onepane.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/network_monitor_onepane.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout-land_request_coins_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout-land/request_coins_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_request_coins_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/request_coins_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_right_round_corners.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/right_round_corners.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_disclaimer_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_disclaimer_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_action_mode_background.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/action_mode_background.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_stat_sys_peers_4.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/stat_sys_peers_4.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_left_round_corners_checked.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/left_round_corners_checked.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu-v21_wallet_addresses_context.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu-v21/wallet_addresses_context.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_close_blue.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_close_blue.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_unable_to_connect_qr.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_unable_to_connect_qr.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_pin_item_more.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/pin_item_more.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_numeric_keyboard_view.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/numeric_keyboard_view.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/color_dialog_button_text.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/color/dialog_button_text.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_peer_monitor_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/peer_monitor_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_left_round_button.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/left_round_button.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_tools.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_tools.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_address_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_address_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_home_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/home_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_edit_address_book_entry_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/edit_address_book_entry_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_payments_focused.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_payments_focused.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_dialog_confirm_transaction.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/dialog_confirm_transaction.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_verify_seed_write_down.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/verify_seed_write_down.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_pin_item_more_inactive.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_pin_item_more_inactive.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_action_search.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_action_search.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_fingerprint_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/fingerprint_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_exchange_rate_row.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/exchange_rate_row.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_appwidget_dark_bg_focused.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/appwidget_dark_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_pin_item_inactive_gray.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_pin_item_inactive_gray.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_shortcut_send_coins.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/shortcut_send_coins.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_actions_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_actions_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_sweep_wallet_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/sweep_wallet_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_pin_item_white.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/pin_item_white.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_left_round_corners.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/left_round_corners.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_pay_copied_address.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_pay_copied_address.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_retry_request.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_retry_request.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_block_row.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/block_row.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_custom_spinner_item.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/custom_spinner_item.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_more.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_more.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_content_copy_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_content_copy_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_seekbar_line.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/seekbar_line.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_home_focused.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_home_focused.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_appwidget_inner_pressed_c.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/appwidget_inner_pressed_c.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_home_activity.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/home_activity.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_more_active.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_more_active.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_please_wait_2.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_please_wait_2.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu-v21_sending_addresses_fragment_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu-v21/sending_addresses_fragment_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_send_coins_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/send_coins_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/raw_send_coins_broadcast_1.wav.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/raw/send_coins_broadcast_1.wav"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_fancy_list_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/fancy_list_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_transaction_result_address_row.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/transaction_result_address_row.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_more.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_more.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_appwidget_inner_pressed_l.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/appwidget_inner_pressed_l.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_sync.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_sync.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_request_coins_form_include.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/request_coins_form_include.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/xml_wallet_balance_widget.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/xml/wallet_balance_widget.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_address_book_row.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/address_book_row.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_more_button_selector.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/more_button_selector.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_pin_item.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/pin_item.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_pin_item_gray.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_pin_item_gray.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_fragment_payments_pay.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/fragment_payments_pay.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_appwidget_dark_bg_pressed.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/appwidget_dark_bg_pressed.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_fingerprint_view.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/fingerprint_view.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_forgot_pin.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_forgot_pin.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_lock_login_with_pin.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_lock_login_with_pin.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_appwidget_inner_focused_r.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/appwidget_inner_focused_r.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_secured_by.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_secured_by.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_paper_wallet.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_paper_wallet.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_appwidget_inner_pressed_r.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/appwidget_inner_pressed_r.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_appwidget_button_left.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/appwidget_button_left.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_round_checkbox_checked.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/round_checkbox_checked.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_action_bar_up_indicator.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/action_bar_up_indicator.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_exchange_rates_context.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/exchange_rates_context.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_disconnect.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_disconnect.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_send_coins_buttons_include.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/send_coins_buttons_include.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xxhdpi_security_blue.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xxhdpi/security_blue.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_pin_preview_view.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/pin_preview_view.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_network_monitor_options.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/network_monitor_options.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_tab_title.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/tab_title.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_payments.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_payments.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_wallet_address_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/wallet_address_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_appwidget_inner_focused_l.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/appwidget_inner_focused_l.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_about.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_security_filled_green.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/security_filled_green.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_block_list_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/block_list_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_balance_prefix_milli.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/balance_prefix_milli.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_splash_activity_background.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/splash_activity_background.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_blocks_context.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/blocks_context.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_backup_wallet_to_seed_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/backup_wallet_to_seed_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_address_book_onepane.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/address_book_onepane.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_block_info.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_block_info.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_appwidget_inner_pressed_c.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/appwidget_inner_pressed_c.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_dash_logo_blue.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_dash_logo_blue.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_backspace.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_backspace.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_appwidget_button_center.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/appwidget_button_center.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_exchange_rates_fragment.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/exchange_rates_fragment.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_request_coins_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/request_coins_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_peer_list_row.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/peer_list_row.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_toast_frame.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/toast_frame.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_balance_prefix.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/balance_prefix.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_security.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_security.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_spinner_item.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_send_coins_content.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/send_coins_content.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_create_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_create_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_warning_grey600_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_warning_grey600_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_set_pin.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_set_pin.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-xhdpi_appwidget_dark_bg_focused.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-xhdpi/appwidget_dark_bg_focused.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_right_round_button.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/right_round_button.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_network_monitor.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_network_monitor.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_round_checkbox.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/round_checkbox.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_verify_seed_verify.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/verify_seed_verify.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_filter_list_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_filter_list_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_ext_app_bar_bottom_layout.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/ext_app_bar_bottom_layout.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_app_update.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_app_update.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_security_filled_blue.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/security_filled_blue.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_menu_address_book.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_menu_address_book.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_retry_simple.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_retry_simple.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_custom_pin_preview_background.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/custom_pin_preview_background.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_verify_seed_word_tv.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/verify_seed_word_tv.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_restore_wallet_from_external_dialog.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/restore_wallet_from_external_dialog.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_ic_cryptocurrency.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/ic_cryptocurrency.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_arrow_back_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_arrow_back_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_goto_button_selector.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/goto_button_selector.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_divider_field.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/divider_field.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_rounded_gray_frame.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/rounded_gray_frame.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_fragment_secure_wallet.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/fragment_secure_wallet.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-anydpi_ic_content_paste_white_24dp.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-anydpi/ic_content_paste_white_24dp.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable_splash_background.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable/splash_background.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_lock_fingerprint_view.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/lock_fingerprint_view.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/drawable-hdpi_appwidget_inner_focused_c.9.png.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/drawable-hdpi/appwidget_inner_focused_c.9.png"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_scan_activity.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/scan_activity.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/menu_main_drawer.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/menu/main_drawer.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_backup_disclaimer_layout.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/backup_disclaimer_layout.xml"
+    },
+    {
+        "merged": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/res/merged/prod/debug/layout_activity_recover_wallet_from_seed.xml.flat",
+        "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/layout/activity_recover_wallet_from_seed.xml"
+    }
+]

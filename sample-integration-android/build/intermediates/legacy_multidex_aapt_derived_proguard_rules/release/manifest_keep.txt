@@ -1,0 +1,2 @@
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/build/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class androidx.multidex.MultiDexApplication { <init>(); }

@@ -1,0 +1,695 @@
+de/schildbach/wallet/ui/HeaderBalanceFragment.java
+ de.schildbach.wallet.ui.HeaderBalanceFragment
+ de.schildbach.wallet.ui.HeaderBalanceFragment$1
+ de.schildbach.wallet.ui.HeaderBalanceFragment$2
+ de.schildbach.wallet.ui.HeaderBalanceFragment$3
+ de.schildbach.wallet.ui.HeaderBalanceFragment$4
+de/schildbach/wallet/ui/PeerListFragment.java
+ de.schildbach.wallet.ui.PeerListFragment
+ de.schildbach.wallet.ui.PeerListFragment$1
+ de.schildbach.wallet.ui.PeerListFragment$2
+ de.schildbach.wallet.ui.PeerListFragment$3
+ de.schildbach.wallet.ui.PeerListFragment$4
+ de.schildbach.wallet.ui.PeerListFragment$PeerLoader
+ de.schildbach.wallet.ui.PeerListFragment$PeerLoader$1
+ de.schildbach.wallet.ui.PeerListFragment$PeerViewAdapter
+ de.schildbach.wallet.ui.PeerListFragment$PeerViewHolder
+ de.schildbach.wallet.ui.PeerListFragment$ReverseDnsLoader
+de/schildbach/wallet/ui/security/EncryptionProviderFactory.java
+ de.schildbach.wallet.ui.security.EncryptionProviderFactory
+ de.schildbach.wallet.ui.security.EncryptionProviderFactory$EncryptionProvider
+de/schildbach/wallet/ui/WalletAddressDialogFragment.java
+ de.schildbach.wallet.ui.WalletAddressDialogFragment
+ de.schildbach.wallet.ui.WalletAddressDialogFragment$1
+ de.schildbach.wallet.ui.WalletAddressDialogFragment$2
+de/schildbach/wallet/ui/SendingAddressesFragment.java
+ de.schildbach.wallet.ui.SendingAddressesFragment
+ de.schildbach.wallet.ui.SendingAddressesFragment$1
+ de.schildbach.wallet.ui.SendingAddressesFragment$2
+ de.schildbach.wallet.ui.SendingAddressesFragment$2$1
+ de.schildbach.wallet.ui.SendingAddressesFragment$3
+de/schildbach/wallet/util/Bluetooth.java
+ de.schildbach.wallet.util.Bluetooth
+de/schildbach/wallet/ui/RequestCoinsActivity.java
+ de.schildbach.wallet.ui.RequestCoinsActivity
+de/schildbach/wallet/data/DynamicFeeLoader.java
+ de.schildbach.wallet.data.DynamicFeeLoader
+de/schildbach/wallet/ui/send/SendCoinsActivity.java
+ de.schildbach.wallet.ui.send.SendCoinsActivity
+ de.schildbach.wallet.ui.send.SendCoinsActivity$1
+ de.schildbach.wallet.ui.send.SendCoinsActivity$2
+ de.schildbach.wallet.ui.send.SendCoinsActivity$3
+de/schildbach/wallet/ui/send/DecryptSeedTask.java
+ de.schildbach.wallet.ui.send.DecryptSeedTask
+ de.schildbach.wallet.ui.send.DecryptSeedTask$1
+ de.schildbach.wallet.ui.send.DecryptSeedTask$1$1
+ de.schildbach.wallet.ui.send.DecryptSeedTask$1$2
+de/schildbach/wallet/ui/scan/CameraManager.java
+ de.schildbach.wallet.ui.scan.CameraManager
+ de.schildbach.wallet.ui.scan.CameraManager$1
+de/schildbach/wallet/util/Qr.java
+ de.schildbach.wallet.util.Qr
+de/schildbach/wallet/ui/WalletBalanceLoader.java
+ de.schildbach.wallet.ui.WalletBalanceLoader
+ de.schildbach.wallet.ui.WalletBalanceLoader$1
+ de.schildbach.wallet.ui.WalletBalanceLoader$2
+de/schildbach/wallet/rates/RetrofitClient.java
+ de.schildbach.wallet.rates.RetrofitClient
+ de.schildbach.wallet.rates.RetrofitClient$1
+ de.schildbach.wallet.rates.RetrofitClient$Callback
+ de.schildbach.wallet.rates.RetrofitClient$SecureTimeInterceptor
+de/schildbach/wallet/ui/widget/MontserratCheckBox.java
+ de.schildbach.wallet.ui.widget.MontserratCheckBox
+de/schildbach/wallet/rates/BitcoinAverageRateAdapter.java
+ de.schildbach.wallet.rates.BitcoinAverageRateAdapter
+de/schildbach/wallet/ui/AddressBookActivity.java
+ de.schildbach.wallet.ui.AddressBookActivity
+ de.schildbach.wallet.ui.AddressBookActivity$TwoFragmentAdapter
+de/schildbach/wallet/util/CheatSheet.java
+ de.schildbach.wallet.util.CheatSheet
+ de.schildbach.wallet.util.CheatSheet$1
+ de.schildbach.wallet.util.CheatSheet$2
+ de.schildbach.wallet.util.CheatSheet$3
+de/schildbach/wallet/ui/EncryptKeysDialogFragment.java
+ de.schildbach.wallet.ui.EncryptKeysDialogFragment
+ de.schildbach.wallet.ui.EncryptKeysDialogFragment$1
+ de.schildbach.wallet.ui.EncryptKeysDialogFragment$2
+ de.schildbach.wallet.ui.EncryptKeysDialogFragment$2$1
+ de.schildbach.wallet.ui.EncryptKeysDialogFragment$3
+ de.schildbach.wallet.ui.EncryptKeysDialogFragment$3$1
+ de.schildbach.wallet.ui.EncryptKeysDialogFragment$3$1$1
+ de.schildbach.wallet.ui.EncryptKeysDialogFragment$State
+de/schildbach/wallet/ui/security/ModernEncryptionProvider.java
+ de.schildbach.wallet.ui.security.ModernEncryptionProvider
+de/schildbach/wallet/ui/widget/FingerprintView.java
+ de.schildbach.wallet.ui.widget.FingerprintView
+de/schildbach/wallet/ui/FileAdapter.java
+ de.schildbach.wallet.ui.FileAdapter
+de/schildbach/wallet/ui/CurrencyCalculatorLink.java
+ de.schildbach.wallet.ui.CurrencyCalculatorLink
+ de.schildbach.wallet.ui.CurrencyCalculatorLink$1
+ de.schildbach.wallet.ui.CurrencyCalculatorLink$2
+de/schildbach/wallet/ui/ExchangeRatesFragment.java
+ de.schildbach.wallet.ui.ExchangeRatesFragment
+ de.schildbach.wallet.ui.ExchangeRatesFragment$1
+ de.schildbach.wallet.ui.ExchangeRatesFragment$2
+ de.schildbach.wallet.ui.ExchangeRatesFragment$3
+ de.schildbach.wallet.ui.ExchangeRatesFragment$4
+ de.schildbach.wallet.ui.ExchangeRatesFragment$5
+ de.schildbach.wallet.ui.ExchangeRatesFragment$5$1
+ de.schildbach.wallet.ui.ExchangeRatesFragment$6
+ de.schildbach.wallet.ui.ExchangeRatesFragment$7
+ de.schildbach.wallet.ui.ExchangeRatesFragment$ExchangeRateViewHolder
+ de.schildbach.wallet.ui.ExchangeRatesFragment$ExchangeRatesAdapter
+ de.schildbach.wallet.ui.ExchangeRatesFragment$ExchangeRatesAdapter$1
+de/schildbach/wallet/ui/WalletUriHandlerActivity.java
+ de.schildbach.wallet.ui.WalletUriHandlerActivity
+ de.schildbach.wallet.ui.WalletUriHandlerActivity$1
+ de.schildbach.wallet.ui.WalletUriHandlerActivity$1$1
+ de.schildbach.wallet.ui.WalletUriHandlerActivity$1$2
+ de.schildbach.wallet.ui.WalletUriHandlerActivity$1$3
+ de.schildbach.wallet.ui.WalletUriHandlerActivity$2
+de/schildbach/wallet/ui/send/SendCoinsFragment.java
+ de.schildbach.wallet.ui.send.SendCoinsFragment
+ de.schildbach.wallet.ui.send.SendCoinsFragment$1
+ de.schildbach.wallet.ui.send.SendCoinsFragment$10
+ de.schildbach.wallet.ui.send.SendCoinsFragment$11
+ de.schildbach.wallet.ui.send.SendCoinsFragment$12
+ de.schildbach.wallet.ui.send.SendCoinsFragment$13
+ de.schildbach.wallet.ui.send.SendCoinsFragment$13$1
+ de.schildbach.wallet.ui.send.SendCoinsFragment$14
+ de.schildbach.wallet.ui.send.SendCoinsFragment$2
+ de.schildbach.wallet.ui.send.SendCoinsFragment$3
+ de.schildbach.wallet.ui.send.SendCoinsFragment$4
+ de.schildbach.wallet.ui.send.SendCoinsFragment$5
+ de.schildbach.wallet.ui.send.SendCoinsFragment$6
+ de.schildbach.wallet.ui.send.SendCoinsFragment$7
+ de.schildbach.wallet.ui.send.SendCoinsFragment$8
+ de.schildbach.wallet.ui.send.SendCoinsFragment$9
+de/schildbach/wallet/ui/RestoreFromFileHelper.java
+ de.schildbach.wallet.ui.RestoreFromFileHelper
+ de.schildbach.wallet.ui.RestoreFromFileHelper$1
+ de.schildbach.wallet.ui.RestoreFromFileHelper$2
+ de.schildbach.wallet.ui.RestoreFromFileHelper$3
+ de.schildbach.wallet.ui.RestoreFromFileHelper$4
+ de.schildbach.wallet.ui.RestoreFromFileHelper$5
+ de.schildbach.wallet.ui.RestoreFromFileHelper$6
+ de.schildbach.wallet.ui.RestoreFromFileHelper$7
+ de.schildbach.wallet.ui.RestoreFromFileHelper$8
+ de.schildbach.wallet.ui.RestoreFromFileHelper$9
+ de.schildbach.wallet.ui.RestoreFromFileHelper$OnRestoreWalletListener
+de/schildbach/wallet/ui/WalletBalanceToolbarFragment.java
+ de.schildbach.wallet.ui.WalletBalanceToolbarFragment
+ de.schildbach.wallet.ui.WalletBalanceToolbarFragment$1
+ de.schildbach.wallet.ui.WalletBalanceToolbarFragment$2
+ de.schildbach.wallet.ui.WalletBalanceToolbarFragment$4
+de/schildbach/wallet/util/AddressUtil.java
+ de.schildbach.wallet.util.AddressUtil
+de/schildbach/wallet/ui/SingleLiveEventExt.java
+ de.schildbach.wallet.ui.SingleLiveEventExt
+ de.schildbach.wallet.ui.SingleLiveEventExt$1
+de/schildbach/wallet/ui/preference/DiagnosticsFragment.java
+ de.schildbach.wallet.ui.preference.DiagnosticsFragment
+ de.schildbach.wallet.ui.preference.DiagnosticsFragment$1
+ de.schildbach.wallet.ui.preference.DiagnosticsFragment$2
+ de.schildbach.wallet.ui.preference.DiagnosticsFragment$3
+de/schildbach/wallet/util/FingerprintHelper.java
+ de.schildbach.wallet.util.FingerprintHelper
+ de.schildbach.wallet.util.FingerprintHelper$Callback
+ de.schildbach.wallet.util.FingerprintHelper$FingerprintAuthenticationListener
+ de.schildbach.wallet.util.FingerprintHelper$FingerprintDecryptPasswordListener
+ de.schildbach.wallet.util.FingerprintHelper$FingerprintEncryptPasswordListener
+de/schildbach/wallet/AppDatabase.java
+ de.schildbach.wallet.AppDatabase
+de/schildbach/wallet/rates/ExchangeRatesClient.java
+ de.schildbach.wallet.rates.ExchangeRatesClient
+de/schildbach/wallet/rates/ExchangeRatesDao.java
+ de.schildbach.wallet.rates.ExchangeRatesDao
+de/schildbach/wallet/ui/send/FeeCategory.java
+ de.schildbach.wallet.ui.send.FeeCategory
+de/schildbach/wallet/ui/AbstractPINDialogFragment.java
+ de.schildbach.wallet.ui.AbstractPINDialogFragment
+ de.schildbach.wallet.ui.AbstractPINDialogFragment$1
+ de.schildbach.wallet.ui.AbstractPINDialogFragment$2
+ de.schildbach.wallet.ui.AbstractPINDialogFragment$2$1
+ de.schildbach.wallet.ui.AbstractPINDialogFragment$3
+ de.schildbach.wallet.ui.AbstractPINDialogFragment$4
+ de.schildbach.wallet.ui.AbstractPINDialogFragment$WalletProvider
+de/schildbach/wallet/ui/security/StaleEncryptionProvider.java
+ de.schildbach.wallet.ui.security.StaleEncryptionProvider
+de/schildbach/wallet/ui/CheckWalletPasswordTask.java
+ de.schildbach.wallet.ui.CheckWalletPasswordTask
+ de.schildbach.wallet.ui.CheckWalletPasswordTask$1
+ de.schildbach.wallet.ui.CheckWalletPasswordTask$1$1
+ de.schildbach.wallet.ui.CheckWalletPasswordTask$1$2
+de/schildbach/wallet/data/PaymentIntent.java
+ de.schildbach.wallet.data.PaymentIntent
+ de.schildbach.wallet.data.PaymentIntent$1
+ de.schildbach.wallet.data.PaymentIntent$Output
+ de.schildbach.wallet.data.PaymentIntent$Output$1
+ de.schildbach.wallet.data.PaymentIntent$Standard
+de/schildbach/wallet/rates/DashRatesSecondFallback.java
+ de.schildbach.wallet.rates.DashRatesSecondFallback
+de/schildbach/wallet/ui/NetworkMonitorActivity.java
+ de.schildbach.wallet.ui.NetworkMonitorActivity
+ de.schildbach.wallet.ui.NetworkMonitorActivity$1
+ de.schildbach.wallet.ui.NetworkMonitorActivity$2
+ de.schildbach.wallet.ui.NetworkMonitorActivity$PagerAdapter
+de/schildbach/wallet/ui/CollapsingImageBehavior.java
+ de.schildbach.wallet.ui.CollapsingImageBehavior
+de/schildbach/wallet/WalletBalanceWidgetProvider.java
+ de.schildbach.wallet.WalletBalanceWidgetProvider
+ de.schildbach.wallet.WalletBalanceWidgetProvider$1
+de/schildbach/wallet/util/TransactionUtil.java
+ de.schildbach.wallet.util.TransactionUtil
+ de.schildbach.wallet.util.TransactionUtil$1
+de/schildbach/wallet/ui/AbstractWalletActivity.java
+ de.schildbach.wallet.ui.AbstractWalletActivity
+de/schildbach/wallet/ui/WalletTransactionsFragment.java
+ de.schildbach.wallet.ui.WalletTransactionsFragment
+ de.schildbach.wallet.ui.WalletTransactionsFragment$1
+ de.schildbach.wallet.ui.WalletTransactionsFragment$2
+ de.schildbach.wallet.ui.WalletTransactionsFragment$3
+ de.schildbach.wallet.ui.WalletTransactionsFragment$4
+ de.schildbach.wallet.ui.WalletTransactionsFragment$4$1
+ de.schildbach.wallet.ui.WalletTransactionsFragment$5
+ de.schildbach.wallet.ui.WalletTransactionsFragment$Direction
+ de.schildbach.wallet.ui.WalletTransactionsFragment$TransactionsLoader
+ de.schildbach.wallet.ui.WalletTransactionsFragment$TransactionsLoader$1
+ de.schildbach.wallet.ui.WalletTransactionsFragment$TransactionsLoader$2
+ de.schildbach.wallet.ui.WalletTransactionsFragment$TransactionsLoader$3
+de/schildbach/wallet/util/Toast.java
+ de.schildbach.wallet.util.Toast
+de/schildbach/wallet/ui/EnableFingerprintDialog.java
+ de.schildbach.wallet.ui.EnableFingerprintDialog
+ de.schildbach.wallet.ui.EnableFingerprintDialog$1
+ de.schildbach.wallet.ui.EnableFingerprintDialog$2
+de/schildbach/wallet/util/HttpGetThread.java
+ de.schildbach.wallet.util.HttpGetThread
+de/schildbach/wallet/ui/UnlockWalletDialogFragment.java
+ de.schildbach.wallet.ui.UnlockWalletDialogFragment
+ de.schildbach.wallet.ui.UnlockWalletDialogFragment$1
+ de.schildbach.wallet.ui.UnlockWalletDialogFragment$OnUnlockWalletListener
+de/schildbach/wallet/rates/ExchangeRatesViewModel.java
+ de.schildbach.wallet.rates.ExchangeRatesViewModel
+de/schildbach/wallet/ui/scan/ScannerView.java
+ de.schildbach.wallet.ui.scan.ScannerView
+de/schildbach/wallet/ui/send/SweepWalletActivity.java
+ de.schildbach.wallet.ui.send.SweepWalletActivity
+de/schildbach/wallet/offline/AcceptBluetoothThread.java
+ de.schildbach.wallet.offline.AcceptBluetoothThread
+ de.schildbach.wallet.offline.AcceptBluetoothThread$1
+ de.schildbach.wallet.offline.AcceptBluetoothThread$ClassicBluetoothThread
+ de.schildbach.wallet.offline.AcceptBluetoothThread$PaymentProtocolThread
+de/schildbach/wallet/ui/WalletDisclaimerFragment.java
+ de.schildbach.wallet.ui.WalletDisclaimerFragment
+ de.schildbach.wallet.ui.WalletDisclaimerFragment$1
+de/schildbach/wallet/ui/scan/ScanViewModel.java
+ de.schildbach.wallet.ui.scan.ScanViewModel
+de/schildbach/wallet/rates/PoloniexClient.java
+ de.schildbach.wallet.rates.PoloniexClient
+ de.schildbach.wallet.rates.PoloniexClient$PoloniexService
+de/schildbach/wallet/ui/FancyListFragment.java
+ de.schildbach.wallet.ui.FancyListFragment
+de/schildbach/wallet/ui/RequestCoinsFragment.java
+ de.schildbach.wallet.ui.RequestCoinsFragment
+ de.schildbach.wallet.ui.RequestCoinsFragment$1
+ de.schildbach.wallet.ui.RequestCoinsFragment$2
+ de.schildbach.wallet.ui.RequestCoinsFragment$3
+ de.schildbach.wallet.ui.RequestCoinsFragment$4
+de/schildbach/wallet/ui/BlockListAdapter.java
+ de.schildbach.wallet.ui.BlockListAdapter
+ de.schildbach.wallet.ui.BlockListAdapter$1
+ de.schildbach.wallet.ui.BlockListAdapter$BlockViewHolder
+ de.schildbach.wallet.ui.BlockListAdapter$OnClickListener
+de/schildbach/wallet/ui/AnimationListenerAdapter.java
+ de.schildbach.wallet.ui.AnimationListenerAdapter
+de/schildbach/wallet/rates/CryptoCompareClient.java
+ de.schildbach.wallet.rates.CryptoCompareClient
+ de.schildbach.wallet.rates.CryptoCompareClient$CryptoCompareService
+de/schildbach/wallet/service/BlockchainService.java
+ de.schildbach.wallet.service.BlockchainService
+de/schildbach/wallet/ui/EditAddressBookEntryFragment.java
+ de.schildbach.wallet.ui.EditAddressBookEntryFragment
+ de.schildbach.wallet.ui.EditAddressBookEntryFragment$1
+ de.schildbach.wallet.ui.EditAddressBookEntryFragment$2
+de/schildbach/wallet/ui/BlockListFragment.java
+ de.schildbach.wallet.ui.BlockListFragment
+ de.schildbach.wallet.ui.BlockListFragment$1
+ de.schildbach.wallet.ui.BlockListFragment$2
+ de.schildbach.wallet.ui.BlockListFragment$3
+ de.schildbach.wallet.ui.BlockListFragment$4
+ de.schildbach.wallet.ui.BlockListFragment$5
+ de.schildbach.wallet.ui.BlockListFragment$BlockLoader
+ de.schildbach.wallet.ui.BlockListFragment$BlockLoader$1
+ de.schildbach.wallet.ui.BlockListFragment$TransactionsLoader
+de/schildbach/wallet/rates/LocalBitcoinsResponse.java
+ de.schildbach.wallet.rates.LocalBitcoinsResponse
+de/schildbach/wallet/ui/send/SendCoinsOfflineTask.java
+ de.schildbach.wallet.ui.send.SendCoinsOfflineTask
+ de.schildbach.wallet.ui.send.SendCoinsOfflineTask$1
+ de.schildbach.wallet.ui.send.SendCoinsOfflineTask$1$1
+ de.schildbach.wallet.ui.send.SendCoinsOfflineTask$1$2
+ de.schildbach.wallet.ui.send.SendCoinsOfflineTask$1$3
+ de.schildbach.wallet.ui.send.SendCoinsOfflineTask$1$4
+ de.schildbach.wallet.ui.send.SendCoinsOfflineTask$1$5
+ de.schildbach.wallet.ui.send.SendCoinsOfflineTask$1$6
+de/schildbach/wallet/ui/widget/CustomSeekBar.java
+ de.schildbach.wallet.ui.widget.CustomSeekBar
+de/schildbach/wallet/rates/LocalBitcoinsClient.java
+ de.schildbach.wallet.rates.LocalBitcoinsClient
+ de.schildbach.wallet.rates.LocalBitcoinsClient$LocalBitcoinsService
+de/schildbach/wallet/rates/ExchangeRatesRepository.java
+ de.schildbach.wallet.rates.ExchangeRatesRepository
+ de.schildbach.wallet.rates.ExchangeRatesRepository$1
+de/schildbach/wallet/ui/preference/PreferenceActivity.java
+ de.schildbach.wallet.ui.preference.PreferenceActivity
+de/schildbach/wallet/rates/DashCentralRateAdapter.java
+ de.schildbach.wallet.rates.DashCentralRateAdapter
+de/schildbach/wallet/util/OnFirstPreDraw.java
+ de.schildbach.wallet.util.OnFirstPreDraw
+ de.schildbach.wallet.util.OnFirstPreDraw$Callback
+de/schildbach/wallet/rates/DashRatesClient.java
+ de.schildbach.wallet.rates.DashRatesClient
+ de.schildbach.wallet.rates.DashRatesClient$DashRatesService
+de/schildbach/wallet/service/InactivityNotificationService.java
+ de.schildbach.wallet.service.InactivityNotificationService
+ de.schildbach.wallet.service.InactivityNotificationService$1
+de/schildbach/wallet/ui/HelpDialogFragment.java
+ de.schildbach.wallet.ui.HelpDialogFragment
+de/schildbach/wallet/ActivitiesTracker.java
+ de.schildbach.wallet.ActivitiesTracker
+de/schildbach/wallet/ui/send/DeriveKeyTask.java
+ de.schildbach.wallet.ui.send.DeriveKeyTask
+ de.schildbach.wallet.ui.send.DeriveKeyTask$1
+ de.schildbach.wallet.ui.send.DeriveKeyTask$1$1
+ de.schildbach.wallet.ui.send.DeriveKeyTask$1$2
+de/schildbach/wallet/rates/DashCasaClient.java
+ de.schildbach.wallet.rates.DashCasaClient
+ de.schildbach.wallet.rates.DashCasaClient$DashCasaService
+de/schildbach/wallet/ui/AddressAndLabel.java
+ de.schildbach.wallet.ui.AddressAndLabel
+ de.schildbach.wallet.ui.AddressAndLabel$1
+de/schildbach/wallet/service/BlockchainServiceImpl.java
+ de.schildbach.wallet.service.BlockchainServiceImpl
+ de.schildbach.wallet.service.BlockchainServiceImpl$1
+ de.schildbach.wallet.service.BlockchainServiceImpl$1$1
+ de.schildbach.wallet.service.BlockchainServiceImpl$2
+ de.schildbach.wallet.service.BlockchainServiceImpl$2$1
+ de.schildbach.wallet.service.BlockchainServiceImpl$3
+ de.schildbach.wallet.service.BlockchainServiceImpl$3$1
+ de.schildbach.wallet.service.BlockchainServiceImpl$4
+ de.schildbach.wallet.service.BlockchainServiceImpl$5
+ de.schildbach.wallet.service.BlockchainServiceImpl$6
+ de.schildbach.wallet.service.BlockchainServiceImpl$7
+ de.schildbach.wallet.service.BlockchainServiceImpl$ActivityHistoryEntry
+ de.schildbach.wallet.service.BlockchainServiceImpl$LocalBinder
+ de.schildbach.wallet.service.BlockchainServiceImpl$PeerConnectivityListener
+ de.schildbach.wallet.service.BlockchainServiceImpl$PeerConnectivityListener$1
+de/schildbach/wallet/util/Iso8601Format.java
+ de.schildbach.wallet.util.Iso8601Format
+de/schildbach/wallet/rates/DashRetailRate.java
+ de.schildbach.wallet.rates.DashRetailRate
+de/schildbach/wallet/ui/ShowPasswordCheckListener.java
+ de.schildbach.wallet.ui.ShowPasswordCheckListener
+de/schildbach/wallet/rates/ExchangeRateListMoshiAdapter.java
+ de.schildbach.wallet.rates.ExchangeRateListMoshiAdapter
+de/schildbach/wallet/ui/BackupWalletToSeedDialogFragment.java
+ de.schildbach.wallet.ui.BackupWalletToSeedDialogFragment
+ de.schildbach.wallet.ui.BackupWalletToSeedDialogFragment$1
+ de.schildbach.wallet.ui.BackupWalletToSeedDialogFragment$2
+ de.schildbach.wallet.ui.BackupWalletToSeedDialogFragment$3
+ de.schildbach.wallet.ui.BackupWalletToSeedDialogFragment$4
+ de.schildbach.wallet.ui.BackupWalletToSeedDialogFragment$5
+ de.schildbach.wallet.ui.BackupWalletToSeedDialogFragment$6
+ de.schildbach.wallet.ui.BackupWalletToSeedDialogFragment$7
+de/schildbach/wallet/ui/send/RequestWalletBalanceTask.java
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$1
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$2
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$3
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$4
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$ElectrumServer
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$ElectrumServer$Type
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$JsonRpcRequest
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$JsonRpcResponse
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$JsonRpcResponse$Utxo
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$ResultCallback
+ de.schildbach.wallet.ui.send.RequestWalletBalanceTask$UnspentAPI
+de/schildbach/wallet/ui/send/SweepWalletFragment.java
+ de.schildbach.wallet.ui.send.SweepWalletFragment
+ de.schildbach.wallet.ui.send.SweepWalletFragment$1
+ de.schildbach.wallet.ui.send.SweepWalletFragment$10
+ de.schildbach.wallet.ui.send.SweepWalletFragment$11
+ de.schildbach.wallet.ui.send.SweepWalletFragment$12
+ de.schildbach.wallet.ui.send.SweepWalletFragment$2
+ de.schildbach.wallet.ui.send.SweepWalletFragment$3
+ de.schildbach.wallet.ui.send.SweepWalletFragment$4
+ de.schildbach.wallet.ui.send.SweepWalletFragment$5
+ de.schildbach.wallet.ui.send.SweepWalletFragment$6
+ de.schildbach.wallet.ui.send.SweepWalletFragment$7
+ de.schildbach.wallet.ui.send.SweepWalletFragment$8
+ de.schildbach.wallet.ui.send.SweepWalletFragment$9
+ de.schildbach.wallet.ui.send.SweepWalletFragment$9$1
+ de.schildbach.wallet.ui.send.SweepWalletFragment$FakeTransaction
+ de.schildbach.wallet.ui.send.SweepWalletFragment$State
+de/schildbach/wallet/ui/ReportIssueDialogBuilder.java
+ de.schildbach.wallet.ui.ReportIssueDialogBuilder
+ de.schildbach.wallet.ui.ReportIssueDialogBuilder$1
+de/schildbach/wallet/ui/WalletActivity.java
+ de.schildbach.wallet.ui.WalletActivity
+ de.schildbach.wallet.ui.WalletActivity$1
+ de.schildbach.wallet.ui.WalletActivity$10
+ de.schildbach.wallet.ui.WalletActivity$11
+ de.schildbach.wallet.ui.WalletActivity$12
+ de.schildbach.wallet.ui.WalletActivity$13
+ de.schildbach.wallet.ui.WalletActivity$14
+ de.schildbach.wallet.ui.WalletActivity$15
+ de.schildbach.wallet.ui.WalletActivity$16
+ de.schildbach.wallet.ui.WalletActivity$17
+ de.schildbach.wallet.ui.WalletActivity$2
+ de.schildbach.wallet.ui.WalletActivity$3
+ de.schildbach.wallet.ui.WalletActivity$4
+ de.schildbach.wallet.ui.WalletActivity$5
+ de.schildbach.wallet.ui.WalletActivity$6
+ de.schildbach.wallet.ui.WalletActivity$7
+ de.schildbach.wallet.ui.WalletActivity$8
+ de.schildbach.wallet.ui.WalletActivity$9
+de/schildbach/wallet/ui/TransactionsAdapter.java
+ de.schildbach.wallet.ui.TransactionsAdapter
+ de.schildbach.wallet.ui.TransactionsAdapter$1
+ de.schildbach.wallet.ui.TransactionsAdapter$OnClickListener
+ de.schildbach.wallet.ui.TransactionsAdapter$TransactionCacheEntry
+ de.schildbach.wallet.ui.TransactionsAdapter$TransactionViewHolder
+de/schildbach/wallet/rates/DashRetailClient.java
+ de.schildbach.wallet.rates.DashRetailClient
+ de.schildbach.wallet.rates.DashRetailClient$DashRetailService
+de/schildbach/wallet/util/BitmapFragment.java
+ de.schildbach.wallet.util.BitmapFragment
+ de.schildbach.wallet.util.BitmapFragment$1
+de/schildbach/wallet/ui/ArchiveBackupDialogFragment.java
+ de.schildbach.wallet.ui.ArchiveBackupDialogFragment
+ de.schildbach.wallet.ui.ArchiveBackupDialogFragment$1
+de/schildbach/wallet/ui/preference/SettingsFragment.java
+ de.schildbach.wallet.ui.preference.SettingsFragment
+ de.schildbach.wallet.ui.preference.SettingsFragment$1
+ de.schildbach.wallet.ui.preference.SettingsFragment$2
+de/schildbach/wallet/ui/AbstractBindServiceActivity.java
+ de.schildbach.wallet.ui.AbstractBindServiceActivity
+ de.schildbach.wallet.ui.AbstractBindServiceActivity$1
+de/schildbach/wallet/rates/LocalBitcoinsRate.java
+ de.schildbach.wallet.rates.LocalBitcoinsRate
+de/schildbach/wallet/offline/AcceptBluetoothService.java
+ de.schildbach.wallet.offline.AcceptBluetoothService
+ de.schildbach.wallet.offline.AcceptBluetoothService$1
+ de.schildbach.wallet.offline.AcceptBluetoothService$2
+ de.schildbach.wallet.offline.AcceptBluetoothService$3
+ de.schildbach.wallet.offline.AcceptBluetoothService$4
+ de.schildbach.wallet.offline.AcceptBluetoothService$5
+de/schildbach/wallet/rates/BitPayClient.java
+ de.schildbach.wallet.rates.BitPayClient
+ de.schildbach.wallet.rates.BitPayClient$BitPayService
+de/schildbach/wallet/ui/ImportDialogButtonEnablerListener.java
+ de.schildbach.wallet.ui.ImportDialogButtonEnablerListener
+de/schildbach/wallet/rates/DashRatesFirstFallback.java
+ de.schildbach.wallet.rates.DashRatesFirstFallback
+de/schildbach/wallet/ui/widget/KeyboardResponsiveCoordinatorLayout.java
+ de.schildbach.wallet.ui.widget.KeyboardResponsiveCoordinatorLayout
+ de.schildbach.wallet.ui.widget.KeyboardResponsiveCoordinatorLayout$1
+de/schildbach/wallet/ui/DividerItemDecoration.java
+ de.schildbach.wallet.ui.DividerItemDecoration
+de/schildbach/wallet/ui/send/RequestPaymentRequestTask.java
+ de.schildbach.wallet.ui.send.RequestPaymentRequestTask
+ de.schildbach.wallet.ui.send.RequestPaymentRequestTask$1
+ de.schildbach.wallet.ui.send.RequestPaymentRequestTask$2
+ de.schildbach.wallet.ui.send.RequestPaymentRequestTask$BluetoothRequestTask
+ de.schildbach.wallet.ui.send.RequestPaymentRequestTask$BluetoothRequestTask$1
+ de.schildbach.wallet.ui.send.RequestPaymentRequestTask$BluetoothRequestTask$1$1
+ de.schildbach.wallet.ui.send.RequestPaymentRequestTask$HttpRequestTask
+ de.schildbach.wallet.ui.send.RequestPaymentRequestTask$HttpRequestTask$1
+ de.schildbach.wallet.ui.send.RequestPaymentRequestTask$HttpRequestTask$1$1
+ de.schildbach.wallet.ui.send.RequestPaymentRequestTask$ResultCallback
+de/schildbach/wallet/ui/WalletAddressesFragment.java
+ de.schildbach.wallet.ui.WalletAddressesFragment
+ de.schildbach.wallet.ui.WalletAddressesFragment$1
+ de.schildbach.wallet.ui.WalletAddressesFragment$2
+ de.schildbach.wallet.ui.WalletAddressesFragment$3
+ de.schildbach.wallet.ui.WalletAddressesFragment$3$1
+ de.schildbach.wallet.ui.WalletAddressesFragment$3$2
+de/schildbach/wallet/rates/DashCentralClient.java
+ de.schildbach.wallet.rates.DashCentralClient
+ de.schildbach.wallet.rates.DashCentralClient$DashCentralService
+de/schildbach/wallet/ui/RestoreWalletActivity.java
+ de.schildbach.wallet.ui.RestoreWalletActivity
+ de.schildbach.wallet.ui.RestoreWalletActivity$1
+ de.schildbach.wallet.ui.RestoreWalletActivity$2
+ de.schildbach.wallet.ui.RestoreWalletActivity$3
+ de.schildbach.wallet.ui.RestoreWalletActivity$4
+ de.schildbach.wallet.ui.RestoreWalletActivity$5
+ de.schildbach.wallet.ui.RestoreWalletActivity$6
+ de.schildbach.wallet.ui.RestoreWalletActivity$7
+ de.schildbach.wallet.ui.RestoreWalletActivity$FinishListener
+ de.schildbach.wallet.ui.RestoreWalletActivity$State
+de/schildbach/wallet/ui/BackupWalletDialogFragment.java
+ de.schildbach.wallet.ui.BackupWalletDialogFragment
+ de.schildbach.wallet.ui.BackupWalletDialogFragment$1
+ de.schildbach.wallet.ui.BackupWalletDialogFragment$2
+ de.schildbach.wallet.ui.BackupWalletDialogFragment$2$1
+ de.schildbach.wallet.ui.BackupWalletDialogFragment$3
+de/schildbach/wallet/util/Base43.java
+ de.schildbach.wallet.util.Base43
+de/schildbach/wallet_test/BuildConfig.java
+ de.schildbach.wallet_test.BuildConfig
+de/schildbach/wallet/util/Crypto.java
+ de.schildbach.wallet.util.Crypto
+ de.schildbach.wallet.util.Crypto$1
+de/schildbach/wallet/ui/preference/AppCompatPreferenceActivity.java
+ de.schildbach.wallet.ui.preference.AppCompatPreferenceActivity
+de/schildbach/wallet/ui/send/SendCoinsInternalActivity.java
+ de.schildbach.wallet.ui.send.SendCoinsInternalActivity
+de/schildbach/wallet/ui/WalletAddressesAdapter.java
+ de.schildbach.wallet.ui.WalletAddressesAdapter
+de/schildbach/wallet/util/CircularProgressView.java
+ de.schildbach.wallet.util.CircularProgressView
+de/schildbach/wallet/service/BootstrapReceiver.java
+ de.schildbach.wallet.service.BootstrapReceiver
+de/schildbach/wallet/ui/MaybeMaintenanceFragment.java
+ de.schildbach.wallet.ui.MaybeMaintenanceFragment
+de/schildbach/wallet/rates/ExchangeRate.java
+ de.schildbach.wallet.rates.ExchangeRate
+de/schildbach/wallet/util/WalletUtils.java
+ de.schildbach.wallet.util.WalletUtils
+ de.schildbach.wallet.util.WalletUtils$1
+ de.schildbach.wallet.util.WalletUtils$2
+de/schildbach/wallet/WalletApplication.java
+ de.schildbach.wallet.WalletApplication
+ de.schildbach.wallet.WalletApplication$1
+ de.schildbach.wallet.WalletApplication$2
+ de.schildbach.wallet.WalletApplication$3
+ de.schildbach.wallet.WalletApplication$4
+ de.schildbach.wallet.WalletApplication$5
+de/schildbach/wallet/offline/DirectPaymentTask.java
+ de.schildbach.wallet.offline.DirectPaymentTask
+ de.schildbach.wallet.offline.DirectPaymentTask$1
+ de.schildbach.wallet.offline.DirectPaymentTask$2
+ de.schildbach.wallet.offline.DirectPaymentTask$BluetoothPaymentTask
+ de.schildbach.wallet.offline.DirectPaymentTask$BluetoothPaymentTask$1
+ de.schildbach.wallet.offline.DirectPaymentTask$HttpPaymentTask
+ de.schildbach.wallet.offline.DirectPaymentTask$HttpPaymentTask$1
+ de.schildbach.wallet.offline.DirectPaymentTask$HttpPaymentTask$1$1
+ de.schildbach.wallet.offline.DirectPaymentTask$ResultCallback
+de/schildbach/wallet/util/CrashReporter.java
+ de.schildbach.wallet.util.CrashReporter
+ de.schildbach.wallet.util.CrashReporter$1
+ de.schildbach.wallet.util.CrashReporter$ExceptionHandler
+de/schildbach/wallet/ui/ExchangeRatesActivity.java
+ de.schildbach.wallet.ui.ExchangeRatesActivity
+de/schildbach/wallet/util/ParcelableChainPath.java
+ de.schildbach.wallet.util.ParcelableChainPath
+ de.schildbach.wallet.util.ParcelableChainPath$1
+de/schildbach/wallet/ui/WalletAddressFragment.java
+ de.schildbach.wallet.ui.WalletAddressFragment
+ de.schildbach.wallet.ui.WalletAddressFragment$1
+ de.schildbach.wallet.ui.WalletAddressFragment$2
+ de.schildbach.wallet.ui.WalletAddressFragment$CurrentAddressLoader
+ de.schildbach.wallet.ui.WalletAddressFragment$CurrentAddressLoader$1
+ de.schildbach.wallet.ui.WalletAddressFragment$CurrentAddressLoader$2
+ de.schildbach.wallet.ui.WalletAddressFragment$CurrentAddressLoader$3
+de/schildbach/wallet/util/ThrottlingWalletChangeListener.java
+ de.schildbach.wallet.util.ThrottlingWalletChangeListener
+ de.schildbach.wallet.util.ThrottlingWalletChangeListener$1
+de/schildbach/wallet/rates/CryptoCompareDashBtcRateAdapter.java
+ de.schildbach.wallet.rates.CryptoCompareDashBtcRateAdapter
+de/schildbach/wallet/ui/InputParser.java
+ de.schildbach.wallet.ui.InputParser
+ de.schildbach.wallet.ui.InputParser$BinaryInputParser
+ de.schildbach.wallet.ui.InputParser$StreamInputParser
+ de.schildbach.wallet.ui.InputParser$StringInputParser
+ de.schildbach.wallet.ui.InputParser$WalletUriParser
+de/schildbach/wallet/rates/DashCasaResponse.java
+ de.schildbach.wallet.rates.DashCasaResponse
+de/schildbach/wallet/util/Nfc.java
+ de.schildbach.wallet.util.Nfc
+de/schildbach/wallet/ui/security/SecurityGuard.java
+ de.schildbach.wallet.ui.security.SecurityGuard
+de/schildbach/wallet/rates/PoloniexRateAdapter.java
+ de.schildbach.wallet.rates.PoloniexRateAdapter
+de/schildbach/wallet/ui/send/DecodePrivateKeyTask.java
+ de.schildbach.wallet.ui.send.DecodePrivateKeyTask
+ de.schildbach.wallet.ui.send.DecodePrivateKeyTask$1
+ de.schildbach.wallet.ui.send.DecodePrivateKeyTask$1$1
+ de.schildbach.wallet.ui.send.DecodePrivateKeyTask$1$2
+de/schildbach/wallet/rates/CryptoCompareVesBtcRate.java
+ de.schildbach.wallet.rates.CryptoCompareVesBtcRate
+de/schildbach/wallet/util/Io.java
+ de.schildbach.wallet.util.Io
+de/schildbach/wallet/ui/ProgressDialogFragment.java
+ de.schildbach.wallet.ui.ProgressDialogFragment
+de/schildbach/wallet/util/KeyboardUtil.java
+ de.schildbach.wallet.util.KeyboardUtil
+de/schildbach/wallet/ui/preference/PinRetryController.java
+ de.schildbach.wallet.ui.preference.PinRetryController
+de/schildbach/wallet/ui/scan/ScanActivity.java
+ de.schildbach.wallet.ui.scan.ScanActivity
+ de.schildbach.wallet.ui.scan.ScanActivity$1
+ de.schildbach.wallet.ui.scan.ScanActivity$2
+ de.schildbach.wallet.ui.scan.ScanActivity$3
+ de.schildbach.wallet.ui.scan.ScanActivity$4
+ de.schildbach.wallet.ui.scan.ScanActivity$5
+ de.schildbach.wallet.ui.scan.ScanActivity$6
+ de.schildbach.wallet.ui.scan.ScanActivity$7
+ de.schildbach.wallet.ui.scan.ScanActivity$7$1
+ de.schildbach.wallet.ui.scan.ScanActivity$7$2
+ de.schildbach.wallet.ui.scan.ScanActivity$8
+ de.schildbach.wallet.ui.scan.ScanActivity$9
+ de.schildbach.wallet.ui.scan.ScanActivity$9$1
+ de.schildbach.wallet.ui.scan.ScanActivity$9$2
+ de.schildbach.wallet.ui.scan.ScanActivity$9$2$1
+ de.schildbach.wallet.ui.scan.ScanActivity$9$3
+ de.schildbach.wallet.ui.scan.ScanActivity$AutoFocusRunnable
+ de.schildbach.wallet.ui.scan.ScanActivity$AutoFocusRunnable$1
+ de.schildbach.wallet.ui.scan.ScanActivity$WarnDialogFragment
+ de.schildbach.wallet.ui.scan.ScanActivity$WarnDialogFragment$1
+de/schildbach/wallet/rates/Rate.java
+ de.schildbach.wallet.rates.Rate
+de/schildbach/wallet/ui/SendCoinsQrActivity.java
+ de.schildbach.wallet.ui.SendCoinsQrActivity
+ de.schildbach.wallet.ui.SendCoinsQrActivity$1
+ de.schildbach.wallet.ui.SendCoinsQrActivity$1$1
+de/schildbach/wallet/util/BlockchainStateUtils.java
+ de.schildbach.wallet.util.BlockchainStateUtils
+de/schildbach/wallet/ui/WalletBalanceFragment.java
+ de.schildbach.wallet.ui.WalletBalanceFragment
+ de.schildbach.wallet.ui.WalletBalanceFragment$1
+ de.schildbach.wallet.ui.WalletBalanceFragment$2
+ de.schildbach.wallet.ui.WalletBalanceFragment$3
+ de.schildbach.wallet.ui.WalletBalanceFragment$4
+de/schildbach/wallet/ui/widget/UpgradeWalletDisclaimerDialog.java
+ de.schildbach.wallet.ui.widget.UpgradeWalletDisclaimerDialog
+ de.schildbach.wallet.ui.widget.UpgradeWalletDisclaimerDialog$1
+ de.schildbach.wallet.ui.widget.UpgradeWalletDisclaimerDialog$OnUpgradeConfirmedListener
+de/schildbach/wallet/rates/BitPayRate.java
+ de.schildbach.wallet.rates.BitPayRate
+de/schildbach/wallet/ui/preference/ResolveDnsTask.java
+ de.schildbach.wallet.ui.preference.ResolveDnsTask
+ de.schildbach.wallet.ui.preference.ResolveDnsTask$1
+ de.schildbach.wallet.ui.preference.ResolveDnsTask$1$1
+ de.schildbach.wallet.ui.preference.ResolveDnsTask$1$2
+de/schildbach/wallet/ui/send/MaintenanceDialogFragment.java
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment$1
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment$1$1
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment$1$2
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment$2
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment$3
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment$3$1
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment$3$2
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment$4
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment$5
+ de.schildbach.wallet.ui.send.MaintenanceDialogFragment$State
+de/schildbach/wallet/ui/RestoreWalletFromSeedDialogFragment.java
+ de.schildbach.wallet.ui.RestoreWalletFromSeedDialogFragment
+ de.schildbach.wallet.ui.RestoreWalletFromSeedDialogFragment$1
+ de.schildbach.wallet.ui.RestoreWalletFromSeedDialogFragment$2
+ de.schildbach.wallet.ui.RestoreWalletFromSeedDialogFragment$3
+ de.schildbach.wallet.ui.RestoreWalletFromSeedDialogFragment$4
+ de.schildbach.wallet.ui.RestoreWalletFromSeedDialogFragment$5
+ de.schildbach.wallet.ui.RestoreWalletFromSeedDialogFragment$6
+ de.schildbach.wallet.ui.RestoreWalletFromSeedDialogFragment$7
+de/schildbach/wallet/data/AddressBookProvider.java
+ de.schildbach.wallet.data.AddressBookProvider
+ de.schildbach.wallet.data.AddressBookProvider$Helper
+de/schildbach/wallet/service/UpgradeWalletService.java
+ de.schildbach.wallet.service.UpgradeWalletService
+de/schildbach/wallet/ui/EncryptNewKeyChainDialogFragment.java
+ de.schildbach.wallet.ui.EncryptNewKeyChainDialogFragment
+ de.schildbach.wallet.ui.EncryptNewKeyChainDialogFragment$1
+ de.schildbach.wallet.ui.EncryptNewKeyChainDialogFragment$2
+ de.schildbach.wallet.ui.EncryptNewKeyChainDialogFragment$3
+ de.schildbach.wallet.ui.EncryptNewKeyChainDialogFragment$OnNewKeyChainEncryptedListener
+de/schildbach/wallet/rates/PoloniexResponse.java
+ de.schildbach.wallet.rates.PoloniexResponse
+de/schildbach/wallet/util/WholeStringBuilder.java
+ de.schildbach.wallet.util.WholeStringBuilder
+de/schildbach/wallet/rates/BitcoinAverageClient.java
+ de.schildbach.wallet.rates.BitcoinAverageClient
+ de.schildbach.wallet.rates.BitcoinAverageClient$BitcoinAverageService
+de/schildbach/wallet/AutoLogout.java
+ de.schildbach.wallet.AutoLogout
+ de.schildbach.wallet.AutoLogout$1
+ de.schildbach.wallet.AutoLogout$2
+ de.schildbach.wallet.AutoLogout$OnLogoutListener
+de/schildbach/wallet/ui/preference/AboutFragment.java
+ de.schildbach.wallet.ui.preference.AboutFragment
+de/schildbach/wallet/Constants.java
+ de.schildbach.wallet.Constants
+ de.schildbach.wallet.Constants$1
+ de.schildbach.wallet.Constants$Files
+de/schildbach/wallet/rates/BitPayResponse.java
+ de.schildbach.wallet.rates.BitPayResponse
+de/schildbach/wallet/ui/ExtAppBarLayout.java
+ de.schildbach.wallet.ui.ExtAppBarLayout
+ de.schildbach.wallet.ui.ExtAppBarLayout$1
+ de.schildbach.wallet.ui.ExtAppBarLayout$2
+de/schildbach/wallet/ui/WalletUri.java
+ de.schildbach.wallet.ui.WalletUri

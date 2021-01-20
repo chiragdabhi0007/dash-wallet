@@ -1,0 +1,2 @@
+de/schildbach/wallet/integration/android/BitcoinIntegration.java
+ de.schildbach.wallet.integration.android.BitcoinIntegration

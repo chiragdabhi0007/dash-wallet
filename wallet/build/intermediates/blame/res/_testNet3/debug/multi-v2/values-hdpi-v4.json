@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/incremental/merge_testNet3DebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/values-hdpi/dimens.xml",
+                    "from": {
+                        "startLines": "22,20,21,4,5,8,7,6,3,17,19,25,24,27,28,26,18,30,31,34,33,36,40,38,39,37,14,13,15,12,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1046,944,997,114,171,340,290,234,56,753,879,1189,1098,1306,1363,1248,820,1423,1511,1629,1572,1712,1958,1839,1893,1781,633,573,689,516,392,450",
+                        "endColumns": "50,52,48,56,62,50,49,55,57,66,64,58,90,56,58,57,58,87,59,81,56,68,62,53,64,57,55,59,62,56,57,65",
+                        "endOffsets": "1092,992,1041,166,229,386,335,285,109,815,939,1243,1184,1358,1417,1301,874,1506,1566,1706,1624,1776,2016,1888,1953,1834,684,628,747,568,445,511"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,159,208,265,328,379,429,485,543,610,675,734,825,882,941,999,1058,1146,1206,1288,1345,1414,1477,1531,1596,1654,1710,1770,1833,1890,1948",
+                        "endColumns": "50,52,48,56,62,50,49,55,57,66,64,58,90,56,58,57,58,87,59,81,56,68,62,53,64,57,55,59,62,56,57,65",
+                        "endOffsets": "101,154,203,260,323,374,424,480,538,605,670,729,820,877,936,994,1053,1141,1201,1283,1340,1409,1472,1526,1591,1649,1705,1765,1828,1885,1943,2009"
+                    }
+                },
+                {
+                    "source": "/home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "2014",
+                        "endLines": "38",
+                        "endColumns": "13",
+                        "endOffsets": "2286"
+                    }
+                }
+            ]
+        }
+    ]
+}

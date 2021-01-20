@@ -1,0 +1,4 @@
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:58
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/build/intermediates/merged_manifests/betaDebug/AndroidManifest.xml:58
+-keep class de.schildbach.wallet.WalletApplication { <init>(); }

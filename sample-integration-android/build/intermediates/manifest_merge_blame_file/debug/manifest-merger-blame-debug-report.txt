@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.schildbach.wallet.integration.sample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:minSdkVersion="15" />
+7-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+8
+9    <uses-feature
+9-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:7:5-9:36
+10        android:name="android.hardware.touchscreen"
+10-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:8:9-52
+11        android:required="false" />
+11-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:9:9-33
+12
+13    <supports-screens
+13-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:11:5-15:39
+14        android:anyDensity="true"
+14-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:12:9-34
+15        android:largeScreens="true"
+15-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:13:9-36
+16        android:normalScreens="true"
+16-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:14:9-37
+17        android:smallScreens="true" />
+17-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:15:9-36
+18
+19    <application
+19-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:17:2-29:19
+20        android:name="androidx.multidex.MultiDexApplication"
+20-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:18:9-61
+21        android:debuggable="true"
+22        android:label="Dash in-app payment sample" >
+22-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:17:15-57
+23        <activity
+23-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:20:3-28:20
+24            android:name="de.schildbach.wallet.integration.sample.SampleActivity"
+24-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:21:4-73
+25            android:theme="@android:style/Theme.Light" >
+25-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:22:4-46
+26            <intent-filter>
+26-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:23:4-27:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:24:5-57
+27-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:24:13-54
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:26:17-77
+29-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:26:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

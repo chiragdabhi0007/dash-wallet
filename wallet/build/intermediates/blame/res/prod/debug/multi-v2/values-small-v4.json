@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/incremental/mergeProdDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "/home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/res/values-small-v4/values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "526,599,669,741",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "594,664,736,806"
+                    }
+                },
+                {
+                    "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/values-small/layouts.xml",
+                    "from": {
+                        "startLines": "7,8,3,5,6,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "392,460,56,210,298,116",
+                        "endColumns": "67,60,59,87,93,93",
+                        "endOffsets": "455,516,111,293,387,205"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,18,19,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,123,184,974,1062,1156",
+                        "endColumns": "67,60,59,87,93,93",
+                        "endOffsets": "118,179,239,1057,1151,1245"
+                    }
+                },
+                {
+                    "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/values-small/dimens.xml",
+                    "from": {
+                        "startLines": "8,6,5,4,3,7,11,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "292,197,149,102,56,244,442,338,388",
+                        "endColumns": "45,46,47,46,45,47,58,49,53",
+                        "endOffsets": "333,239,192,144,97,287,496,383,437"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "244,290,337,385,432,478,811,870,920",
+                        "endColumns": "45,46,47,46,45,47,58,49,53",
+                        "endOffsets": "285,332,380,427,473,521,865,915,969"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1255 @@
+-- Merging decision tree log ---
+provider#de.schildbach.wallet.data.AddressBookProvider
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:348:9-351:40
+	android:authorities
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:350:13-64
+	android:exported
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:351:13-37
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:349:13-73
+provider#androidx.core.content.FileProvider
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:352:9-360:20
+	android:grantUriPermissions
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:356:13-47
+	android:authorities
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:354:13-67
+	android:exported
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:355:13-37
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:353:13-62
+manifest
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:2:1-405:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:2:1-405:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:2:1-405:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:2:1-405:12
+MERGED from [:uphold-integration] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/uphold-integration/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:liquid-integration] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:common] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/be4d34578f21891c9924ededf1d467b6/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.2.1] /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/d54a90b2fd361ea956af3be0ec0ec3db/preference-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:ui-redesign] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/ui-redesign/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/tops/.gradle/caches/transforms-2/files-2.1/e648ee9b234a5b7d9c387844d6d8b1dc/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:4.1.2] /home/tops/.gradle/caches/transforms-2/files-2.1/38ca9f18511ebcbf17e078872dddc07c/jetified-viewpagerdotsindicator-4.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/94d46405a3ebfd18f01695affbf92c11/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4c7c5bead6ef425be6970a13430c79ce/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/94080e1a52314a1413642151295d8e0a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/60a20dcdeccc6fd98d5dc13ade4f2b39/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cb79e4abdcd7113923825842252cf0ee/jetified-firebase-analytics-17.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/ed66620a8f6d821ed796beefdd876510/jetified-play-services-measurement-sdk-17.5.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e263145a0f959bf532395f9a1ab26ca0/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/f2f09a4974283628fd98d1463ad58b7e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d0030e1b417994ac1876449641f78e70/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/79b2600903f59aea097aff3c8119f589/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/8762f2371e1dab1d6909b4924eb4e35b/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e73641a2bc5cc8b26be7ab26cedb1f3d/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/819b13a97800ebea73e1741fb0ec32e5/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/5b41563516d72f02ecca554f96716981/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/0b297701e8b0c2903fded74a8ec08eba/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/59ff70669181afb93663ca5e10812872/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4d2d67423c545a27c295a6179cbc6848/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/364f18f77a235c017eaa014887fd4c1c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d5aa1b0d78ea5831d0d71e48208c81d8/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/65dbb57ed0696b02744729ed9429045e/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cd84044d2687c24b653258a9f1e78fcb/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/14de474505d9cba1ea6a1373e5083d3c/jetified-firebase-installations-interop-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/c9d0204ba49623224437ae1b3394527c/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/0a281add9e7ebd733c4b26d033f5a91d/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/3015d50f723a566abc1b6bad99152e8b/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/13c4ed48497934bf87c458601ea6ddac/jetified-play-services-measurement-base-17.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.4] /home/tops/.gradle/caches/transforms-2/files-2.1/b8f400ecd175ae33479fc3ae6f626c77/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/55714e8067a51fe83f67af811d0ca480/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/5fff45377e0598b3056dbac37c752629/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4fc14176aebe3ca818d093523bfb3b48/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/aebe2f0c11291168a3d35ddf4e5ec977/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.5.0-alpha05] /home/tops/.gradle/caches/transforms-2/files-2.1/9fc6741c5699dcb49d9d20a96c111e0c/jetified-core-ktx-1.5.0-alpha05/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.browser:browser:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/7c43ba711de42f05d4f5112da23e904d/browser-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/371089b675de98daf2bb7e21feede61b/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/bc7a26ba08a9856e3a8154cdf6913687/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/69624f0020867d24392f1c2d83ccdc4a/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0-alpha05] /home/tops/.gradle/caches/transforms-2/files-2.1/71bc70bf4e698187e56509b01728ba94/core-1.5.0-alpha05/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/2e53b05031a6613c9eab4689a4ec19dc/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cbfff9b255d3b27a05cba91414027a7b/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e3c36893850a951f3567f442490c28e0/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/536f0a41b10b75243485048f4f403988/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /home/tops/.gradle/caches/transforms-2/files-2.1/78048e8ca3c57359c467f2c8e368b014/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/b6714ccea3f69630de20cdb5a518833e/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/f6b8141e2a6d2770c4b4dbc873781cac/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9af7111f036e694c6e948e3fbf1995ac/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/72c6d8df6b8e8b55847a7fa256424954/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9d65c62c18af5d7747369099cc50ea4b/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/dc54c02a42fe77cbeb5cc7fd12508cc2/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/960c2961cdcc8ea8449b67badb423844/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4a09f00a1c7249d1f724f84667b3dbe6/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/630246e515837899c3472ef287c9a23e/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/ad352eeb5bdcc6774ef5ed66263c5d02/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/eb1857fb263c9dc0f6afa8bea394c6c5/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/b04fcddc10a2426e8bb37156c900bd43/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/0a3b5a5048a42b513d005448db24fb99/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/556ca9b8efc7ce58cc25ed4c8452512a/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/7e6ff0334e4fa426acbcf336ebf1da03/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android:flexbox:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/357c7aba83c2601fabab7ff6c80b920d/jetified-flexbox-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/af27c2b1b7e84fe3d09f268cac917e2b/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.scottyab:secure-preferences-lib:0.1.7] /home/tops/.gradle/caches/transforms-2/files-2.1/398a73306eaa2b6723b0ec76619c46e0/jetified-secure-preferences-lib-0.1.7/AndroidManifest.xml:2:1-12:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/tops/.gradle/caches/transforms-2/files-2.1/4cc2156f487f2559b70c4999342b7505/jetified-rxandroid-2.0.2/AndroidManifest.xml:15:1-21:12
+MERGED from [com.scottyab:aes-crypto:0.0.5] /home/tops/.gradle/caches/transforms-2/files-2.1/f5aad294bfcf416b6a47cc5e3d223b96/jetified-aes-crypto-0.0.5/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:2:1-405:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:2:1-405:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:2:1-405:12
+	package
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:4:5-40
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:7:5-32
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:6:5-32
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:5:5-43
+uses-permission#android.permission.INTERNET
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/3015d50f723a566abc1b6bad99152e8b/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/3015d50f723a566abc1b6bad99152e8b/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:10:5-79
+MERGED from [:common] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:common] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/3015d50f723a566abc1b6bad99152e8b/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/3015d50f723a566abc1b6bad99152e8b/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.NFC
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:13:5-62
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:13:22-59
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:14:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:15:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:16:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/3015d50f723a566abc1b6bad99152e8b/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/3015d50f723a566abc1b6bad99152e8b/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:17:5-77
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:17:22-74
+uses-permission#android.permission.CAMERA
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:20:22-77
+uses-feature#android.hardware.touchscreen
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:22:9-52
+uses-feature#android.hardware.nfc
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:25:9-44
+uses-feature#android.hardware.camera
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:28:9-47
+uses-feature#android.hardware.camera.front
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:31:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.bluetooth
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:43:9-50
+supports-screens
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:46:5-51:40
+	android:largeScreens
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:48:9-36
+	android:smallScreens
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:50:9-36
+	android:normalScreens
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:49:9-37
+	android:xlargeScreens
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:51:9-37
+	android:anyDensity
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:47:9-34
+application
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:53:5-403:19
+MERGED from [com.google.android.material:material:1.2.1] /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:14:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/tops/.gradle/caches/transforms-2/files-2.1/e648ee9b234a5b7d9c387844d6d8b1dc/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/tops/.gradle/caches/transforms-2/files-2.1/e648ee9b234a5b7d9c387844d6d8b1dc/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:4.1.2] /home/tops/.gradle/caches/transforms-2/files-2.1/38ca9f18511ebcbf17e078872dddc07c/jetified-viewpagerdotsindicator-4.1.2/AndroidManifest.xml:11:5-47
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:4.1.2] /home/tops/.gradle/caches/transforms-2/files-2.1/38ca9f18511ebcbf17e078872dddc07c/jetified-viewpagerdotsindicator-4.1.2/AndroidManifest.xml:11:5-47
+MERGED from [com.google.firebase:firebase-analytics:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cb79e4abdcd7113923825842252cf0ee/jetified-firebase-analytics-17.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cb79e4abdcd7113923825842252cf0ee/jetified-firebase-analytics-17.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/ed66620a8f6d821ed796beefdd876510/jetified-play-services-measurement-sdk-17.5.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/ed66620a8f6d821ed796beefdd876510/jetified-play-services-measurement-sdk-17.5.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e263145a0f959bf532395f9a1ab26ca0/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e263145a0f959bf532395f9a1ab26ca0/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/65dbb57ed0696b02744729ed9429045e/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/65dbb57ed0696b02744729ed9429045e/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cd84044d2687c24b653258a9f1e78fcb/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cd84044d2687c24b653258a9f1e78fcb/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/c9d0204ba49623224437ae1b3394527c/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/c9d0204ba49623224437ae1b3394527c/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/0a281add9e7ebd733c4b26d033f5a91d/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/0a281add9e7ebd733c4b26d033f5a91d/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/13c4ed48497934bf87c458601ea6ddac/jetified-play-services-measurement-base-17.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/13c4ed48497934bf87c458601ea6ddac/jetified-play-services-measurement-base-17.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0-alpha05] /home/tops/.gradle/caches/transforms-2/files-2.1/71bc70bf4e698187e56509b01728ba94/core-1.5.0-alpha05/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha05] /home/tops/.gradle/caches/transforms-2/files-2.1/71bc70bf4e698187e56509b01728ba94/core-1.5.0-alpha05/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/2e53b05031a6613c9eab4689a4ec19dc/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/2e53b05031a6613c9eab4689a4ec19dc/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:7:5-12:19
+MERGED from [com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:7:5-12:19
+MERGED from [com.scottyab:secure-preferences-lib:0.1.7] /home/tops/.gradle/caches/transforms-2/files-2.1/398a73306eaa2b6723b0ec76619c46e0/jetified-secure-preferences-lib-0.1.7/AndroidManifest.xml:10:5-20
+MERGED from [com.scottyab:secure-preferences-lib:0.1.7] /home/tops/.gradle/caches/transforms-2/files-2.1/398a73306eaa2b6723b0ec76619c46e0/jetified-secure-preferences-lib-0.1.7/AndroidManifest.xml:10:5-20
+MERGED from [com.scottyab:aes-crypto:0.0.5] /home/tops/.gradle/caches/transforms-2/files-2.1/f5aad294bfcf416b6a47cc5e3d223b96/jetified-aes-crypto-0.0.5/AndroidManifest.xml:10:5-20
+MERGED from [com.scottyab:aes-crypto:0.0.5] /home/tops/.gradle/caches/transforms-2/files-2.1/f5aad294bfcf416b6a47cc5e3d223b96/jetified-aes-crypto-0.0.5/AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha05] /home/tops/.gradle/caches/transforms-2/files-2.1/71bc70bf4e698187e56509b01728ba94/core-1.5.0-alpha05/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.tbuonomo.andrui:viewpagerdotsindicator:4.1.2] /home/tops/.gradle/caches/transforms-2/files-2.1/38ca9f18511ebcbf17e078872dddc07c/jetified-viewpagerdotsindicator-4.1.2/AndroidManifest.xml:11:18-44
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:57:9-41
+	tools:ignore
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:60:9-49
+	android:largeHeap
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:58:9-33
+	android:icon
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:56:9-43
+	android:allowBackup
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:55:9-36
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:59:9-40
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:54:9-62
+activity#com.e.liquid_integration.ui.LiquidBuyAndSellDashActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:61:9-63:61
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:63:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:62:13-84
+activity#com.e.liquid_integration.ui.LiquidSplashActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:64:9-83:20
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:66:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:65:13-76
+activity#de.schildbach.wallet.ui.BuyAndSellLiquidUpholdActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:86:9-88:61
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:88:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:87:13-82
+activity#de.schildbach.wallet.ui.OnboardingActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:89:9-103:20
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:91:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:92:13-56
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:90:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:93:13-98:29
+action#android.intent.action.MAIN
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:94:17-69
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:94:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:96:17-77
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:96:27-74
+category#android.intent.category.DEFAULT
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:17-76
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:27-73
+meta-data#android.app.shortcuts
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:100:13-102:53
+	android:resource
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:102:17-50
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:101:17-53
+activity#de.schildbach.wallet.ui.VerifySeedActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:104:9-107:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:106:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:107:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:105:13-70
+activity#de.schildbach.wallet.ui.ViewSeedActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:108:9-111:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:110:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:111:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:109:13-68
+activity#de.schildbach.wallet.ui.WalletActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:112:9-120:63
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:118:13-49
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:116:13-51
+	android:launchMode
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:117:13-44
+	android:windowSoftInputMode
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:120:13-60
+	android:exported
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:115:13-36
+	android:configChanges
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:114:13-60
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:119:13-56
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:113:13-66
+activity-alias#de.schildbach.wallet.WalletActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:122:9-133:26
+	android:targetActivity
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:124:13-76
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:123:13-63
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:mimeType:application/x-dashtx+data:mimeType:application/x-drktx
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:125:13-132:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:126:17-77
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:126:25-74
+data
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+	android:scheme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:149:23-44
+	android:mimeType
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:23-61
+activity#de.schildbach.wallet.ui.send.SendCoinsInternalActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:135:9-139:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:138:13-49
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:137:13-46
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:139:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:136:13-82
+activity#de.schildbach.wallet.ui.send.SendCoinsActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:140:9-165:20
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:143:13-49
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:142:13-46
+	tools:ignore
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:145:13-53
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:144:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:141:13-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:darkcoin+data:scheme:dash+data:scheme:pay
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:146:13-155:29
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:146:28-77
+action#android.intent.action.VIEW
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:147:17-69
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:147:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:154:17-78
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:154:27-75
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:scheme:darkcoin+data:scheme:dash+data:scheme:pay
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:156:13-164:29
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:156:28-77
+activity#de.schildbach.wallet.ui.SendCoinsQrActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:166:9-170:59
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:169:13-49
+	android:configChanges
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:168:13-60
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:170:13-56
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:167:13-71
+activity#de.schildbach.wallet.ui.RequestCoinsActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:171:9-176:58
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:174:13-65
+	android:windowSoftInputMode
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:176:13-55
+	android:configChanges
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:173:13-60
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:175:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:172:13-72
+activity#de.schildbach.wallet.ui.AddressBookActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:177:9-181:61
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:180:13-64
+	android:configChanges
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:179:13-60
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:181:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:178:13-71
+activity#de.schildbach.wallet.ui.ExchangeRatesActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:182:9-186:61
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:185:13-66
+	android:configChanges
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:184:13-60
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:186:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:183:13-73
+activity#de.schildbach.wallet.ui.NetworkMonitorActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:187:9-191:61
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:190:13-67
+	android:configChanges
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:189:13-60
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:191:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:188:13-74
+activity#de.schildbach.wallet.ui.preference.PreferenceActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:192:9-195:61
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:194:13-63
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:195:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:193:13-81
+activity#de.schildbach.wallet.ui.BlockInfoActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:196:9-199:61
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:198:13-47
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:199:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:197:13-69
+activity#de.schildbach.wallet.ui.RestoreWalletActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:200:9-212:20
+	android:configChanges
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:202:13-72
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:203:13-51
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:201:13-73
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/x-darkcoin-wallet-backup+data:mimeType:application/x-dash-wallet-backup
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:204:13-211:29
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:204:28-84
+activity#de.schildbach.wallet.ui.scan.ScanActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:213:9-218:63
+	android:stateNotNeeded
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:216:13-42
+	android:windowSoftInputMode
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:218:13-60
+	android:configChanges
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:215:13-60
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:217:13-55
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:214:13-69
+activity#de.schildbach.wallet.ui.send.SweepWalletActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:219:9-224:58
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:222:13-64
+	android:windowSoftInputMode
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:224:13-55
+	android:configChanges
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:221:13-60
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:223:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:220:13-76
+activity#de.schildbach.wallet.ui.WalletUriHandlerActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:225:9-237:20
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:227:13-45
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:228:13-56
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:226:13-76
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:dashwallet
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:229:13-236:29
+activity#org.dash.wallet.integration.uphold.ui.UpholdSplashActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:238:9-241:61
+	android:launchMode
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:240:13-44
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:241:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:239:13-86
+activity#org.dash.wallet.integration.uphold.ui.UpholdAccountActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:242:9-244:61
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:244:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:243:13-87
+activity#de.schildbach.wallet.ui.LockScreenActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:245:9-248:63
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:247:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:248:13-60
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:246:13-70
+activity#de.schildbach.wallet.ui.SetPinActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:249:9-252:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:251:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:252:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:250:13-66
+activity#de.schildbach.wallet.ui.MoreActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:253:9-256:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:255:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:256:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:254:13-64
+activity#de.schildbach.wallet.ui.SecurityActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:257:9-260:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:259:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:260:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:258:13-68
+activity#de.schildbach.wallet.ui.RestoreWalletFromSeedActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:261:9-265:58
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:263:13-49
+	android:windowSoftInputMode
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:265:13-55
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:264:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:262:13-81
+activity#de.schildbach.wallet.ui.AdvancedSecurityActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:266:9-269:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:268:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:269:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:267:13-76
+activity#de.schildbach.wallet.ui.SettingsActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:270:9-273:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:272:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:273:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:271:13-68
+activity#de.schildbach.wallet.ui.AboutActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:274:9-277:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:276:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:277:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:275:13-65
+activity#de.schildbach.wallet.ui.ToolsActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:278:9-281:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:280:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:281:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:279:13-65
+activity#de.schildbach.wallet.ui.PaymentsActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:282:9-285:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:284:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:285:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:283:13-68
+activity#de.schildbach.wallet.ui.QuickReceiveActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:286:9-289:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:288:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:289:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:287:13-72
+activity#de.schildbach.wallet.ui.ReceiveActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:290:9-293:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:292:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:293:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:291:13-67
+activity#de.schildbach.wallet.ui.TransactionResultActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:294:9-297:58
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:296:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:297:13-55
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:295:13-77
+activity#de.schildbach.wallet.ui.ForgotPinActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:298:9-301:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:300:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:301:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:299:13-69
+activity#de.schildbach.wallet.ui.WelcomeActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:302:9-305:63
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:304:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:305:13-60
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:303:13-67
+activity#de.schildbach.wallet.ui.UpholdTransferActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:306:9-309:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:308:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:309:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:307:13-74
+activity#de.schildbach.wallet.ui.AppUpgradeActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:310:9-313:63
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:312:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:313:13-60
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:311:13-70
+activity#com.e.liquid_integration.ui.BuyDashWithCreditCardActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:317:9-320:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:319:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:320:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:318:13-85
+activity#com.e.liquid_integration.ui.BuyDashWithCryptoCurrencyActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:321:9-324:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:323:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:324:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:322:13-89
+activity#com.e.liquid_integration.ui.LiquidLoginActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:328:9-331:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:330:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:331:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:329:13-75
+activity#com.e.liquid_integration.ui.BuyDashCryptoActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:333:9-336:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:335:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:336:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:334:13-77
+activity#com.e.liquid_integration.ui.SellDashActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:338:9-341:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:340:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:341:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:339:13-72
+activity#de.schildbach.wallet.ui.LiquidTransferActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:343:9-346:61
+	android:screenOrientation
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:345:13-49
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:346:13-58
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:344:13-74
+receiver#de.schildbach.wallet.WalletBalanceWidgetProvider
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:362:9-372:20
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:364:13-67
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:363:13-76
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:365:13-367:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:366:17-84
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:366:25-81
+meta-data#android.appwidget.provider
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:369:13-371:65
+	android:resource
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:371:17-62
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:370:17-58
+service#de.schildbach.wallet.service.BlockchainServiceImpl
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:374:9-376:40
+	android:exported
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:376:13-37
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:375:13-78
+service#de.schildbach.wallet.offline.AcceptBluetoothService
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:377:9-379:40
+	android:exported
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:379:13-37
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:378:13-79
+receiver#de.schildbach.wallet.service.BootstrapReceiver
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:381:9-388:20
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:381:19-80
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:382:13-384:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:383:17-79
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:383:25-76
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:385:13-387:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:386:17-84
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:386:25-81
+service#de.schildbach.wallet.service.UpgradeWalletService
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:390:9-392:40
+	android:exported
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:392:13-37
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:391:13-77
+service#de.schildbach.wallet.service.InactivityNotificationService
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:393:9-395:40
+	android:exported
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:395:13-37
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:394:13-86
+service#de.schildbach.wallet.service.BlockchainSyncJobService
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:396:9-398:72
+	android:permission
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:398:13-69
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:397:13-81
+meta-data#android.nfc.disable_beam_default
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:400:9-402:36
+	android:value
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:402:13-33
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:401:13-60
+uses-sdk
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+MERGED from [:uphold-integration] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/uphold-integration/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:uphold-integration] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/uphold-integration/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:liquid-integration] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:liquid-integration] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/liquid-integration/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:common] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:common] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/common/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/be4d34578f21891c9924ededf1d467b6/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/be4d34578f21891c9924ededf1d467b6/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.2.1] /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /home/tops/.gradle/caches/transforms-2/files-2.1/443721d68908859cfcd4d21370eb3647/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/d54a90b2fd361ea956af3be0ec0ec3db/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/d54a90b2fd361ea956af3be0ec0ec3db/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:ui-redesign] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/ui-redesign/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:ui-redesign] /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/ui-redesign/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/tops/.gradle/caches/transforms-2/files-2.1/e648ee9b234a5b7d9c387844d6d8b1dc/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/tops/.gradle/caches/transforms-2/files-2.1/e648ee9b234a5b7d9c387844d6d8b1dc/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:4.1.2] /home/tops/.gradle/caches/transforms-2/files-2.1/38ca9f18511ebcbf17e078872dddc07c/jetified-viewpagerdotsindicator-4.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:4.1.2] /home/tops/.gradle/caches/transforms-2/files-2.1/38ca9f18511ebcbf17e078872dddc07c/jetified-viewpagerdotsindicator-4.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/71fb8790ea57d834b54854045c9f5e21/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/94d46405a3ebfd18f01695affbf92c11/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/94d46405a3ebfd18f01695affbf92c11/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4c7c5bead6ef425be6970a13430c79ce/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4c7c5bead6ef425be6970a13430c79ce/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/94080e1a52314a1413642151295d8e0a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/94080e1a52314a1413642151295d8e0a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/60a20dcdeccc6fd98d5dc13ade4f2b39/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/60a20dcdeccc6fd98d5dc13ade4f2b39/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cb79e4abdcd7113923825842252cf0ee/jetified-firebase-analytics-17.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cb79e4abdcd7113923825842252cf0ee/jetified-firebase-analytics-17.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/ed66620a8f6d821ed796beefdd876510/jetified-play-services-measurement-sdk-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/ed66620a8f6d821ed796beefdd876510/jetified-play-services-measurement-sdk-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e263145a0f959bf532395f9a1ab26ca0/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e263145a0f959bf532395f9a1ab26ca0/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/f2f09a4974283628fd98d1463ad58b7e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/f2f09a4974283628fd98d1463ad58b7e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d0030e1b417994ac1876449641f78e70/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d0030e1b417994ac1876449641f78e70/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/79b2600903f59aea097aff3c8119f589/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/79b2600903f59aea097aff3c8119f589/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/8762f2371e1dab1d6909b4924eb4e35b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/8762f2371e1dab1d6909b4924eb4e35b/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e73641a2bc5cc8b26be7ab26cedb1f3d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e73641a2bc5cc8b26be7ab26cedb1f3d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/819b13a97800ebea73e1741fb0ec32e5/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/819b13a97800ebea73e1741fb0ec32e5/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/5b41563516d72f02ecca554f96716981/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/5b41563516d72f02ecca554f96716981/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/0b297701e8b0c2903fded74a8ec08eba/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/0b297701e8b0c2903fded74a8ec08eba/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/59ff70669181afb93663ca5e10812872/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/59ff70669181afb93663ca5e10812872/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4d2d67423c545a27c295a6179cbc6848/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4d2d67423c545a27c295a6179cbc6848/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/364f18f77a235c017eaa014887fd4c1c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/364f18f77a235c017eaa014887fd4c1c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d5aa1b0d78ea5831d0d71e48208c81d8/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d5aa1b0d78ea5831d0d71e48208c81d8/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/65dbb57ed0696b02744729ed9429045e/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/65dbb57ed0696b02744729ed9429045e/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cd84044d2687c24b653258a9f1e78fcb/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cd84044d2687c24b653258a9f1e78fcb/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/14de474505d9cba1ea6a1373e5083d3c/jetified-firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/14de474505d9cba1ea6a1373e5083d3c/jetified-firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/c9d0204ba49623224437ae1b3394527c/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/c9d0204ba49623224437ae1b3394527c/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/0a281add9e7ebd733c4b26d033f5a91d/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/0a281add9e7ebd733c4b26d033f5a91d/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/3015d50f723a566abc1b6bad99152e8b/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/3015d50f723a566abc1b6bad99152e8b/jetified-play-services-measurement-sdk-api-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/13c4ed48497934bf87c458601ea6ddac/jetified-play-services-measurement-base-17.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/13c4ed48497934bf87c458601ea6ddac/jetified-play-services-measurement-base-17.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] /home/tops/.gradle/caches/transforms-2/files-2.1/b8f400ecd175ae33479fc3ae6f626c77/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/tops/.gradle/caches/transforms-2/files-2.1/b8f400ecd175ae33479fc3ae6f626c77/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/55714e8067a51fe83f67af811d0ca480/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/55714e8067a51fe83f67af811d0ca480/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/5fff45377e0598b3056dbac37c752629/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/5fff45377e0598b3056dbac37c752629/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4fc14176aebe3ca818d093523bfb3b48/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4fc14176aebe3ca818d093523bfb3b48/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/aebe2f0c11291168a3d35ddf4e5ec977/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/aebe2f0c11291168a3d35ddf4e5ec977/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.5.0-alpha05] /home/tops/.gradle/caches/transforms-2/files-2.1/9fc6741c5699dcb49d9d20a96c111e0c/jetified-core-ktx-1.5.0-alpha05/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0-alpha05] /home/tops/.gradle/caches/transforms-2/files-2.1/9fc6741c5699dcb49d9d20a96c111e0c/jetified-core-ktx-1.5.0-alpha05/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.browser:browser:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/7c43ba711de42f05d4f5112da23e904d/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/7c43ba711de42f05d4f5112da23e904d/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/371089b675de98daf2bb7e21feede61b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/371089b675de98daf2bb7e21feede61b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/bc7a26ba08a9856e3a8154cdf6913687/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/bc7a26ba08a9856e3a8154cdf6913687/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/69624f0020867d24392f1c2d83ccdc4a/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/69624f0020867d24392f1c2d83ccdc4a/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha05] /home/tops/.gradle/caches/transforms-2/files-2.1/71bc70bf4e698187e56509b01728ba94/core-1.5.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha05] /home/tops/.gradle/caches/transforms-2/files-2.1/71bc70bf4e698187e56509b01728ba94/core-1.5.0-alpha05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/2e53b05031a6613c9eab4689a4ec19dc/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/2e53b05031a6613c9eab4689a4ec19dc/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cbfff9b255d3b27a05cba91414027a7b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/cbfff9b255d3b27a05cba91414027a7b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e3c36893850a951f3567f442490c28e0/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e3c36893850a951f3567f442490c28e0/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/536f0a41b10b75243485048f4f403988/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/536f0a41b10b75243485048f4f403988/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /home/tops/.gradle/caches/transforms-2/files-2.1/78048e8ca3c57359c467f2c8e368b014/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /home/tops/.gradle/caches/transforms-2/files-2.1/78048e8ca3c57359c467f2c8e368b014/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/b6714ccea3f69630de20cdb5a518833e/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/b6714ccea3f69630de20cdb5a518833e/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/f6b8141e2a6d2770c4b4dbc873781cac/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/f6b8141e2a6d2770c4b4dbc873781cac/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9af7111f036e694c6e948e3fbf1995ac/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9af7111f036e694c6e948e3fbf1995ac/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/72c6d8df6b8e8b55847a7fa256424954/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/72c6d8df6b8e8b55847a7fa256424954/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9d65c62c18af5d7747369099cc50ea4b/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9d65c62c18af5d7747369099cc50ea4b/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/dc54c02a42fe77cbeb5cc7fd12508cc2/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/dc54c02a42fe77cbeb5cc7fd12508cc2/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/960c2961cdcc8ea8449b67badb423844/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/960c2961cdcc8ea8449b67badb423844/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4a09f00a1c7249d1f724f84667b3dbe6/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/4a09f00a1c7249d1f724f84667b3dbe6/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/630246e515837899c3472ef287c9a23e/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/630246e515837899c3472ef287c9a23e/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/ad352eeb5bdcc6774ef5ed66263c5d02/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/ad352eeb5bdcc6774ef5ed66263c5d02/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/eb1857fb263c9dc0f6afa8bea394c6c5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/eb1857fb263c9dc0f6afa8bea394c6c5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/b04fcddc10a2426e8bb37156c900bd43/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/b04fcddc10a2426e8bb37156c900bd43/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/0a3b5a5048a42b513d005448db24fb99/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/0a3b5a5048a42b513d005448db24fb99/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/556ca9b8efc7ce58cc25ed4c8452512a/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/556ca9b8efc7ce58cc25ed4c8452512a/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/7e6ff0334e4fa426acbcf336ebf1da03/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/7e6ff0334e4fa426acbcf336ebf1da03/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android:flexbox:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/357c7aba83c2601fabab7ff6c80b920d/jetified-flexbox-1.1.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android:flexbox:1.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/357c7aba83c2601fabab7ff6c80b920d/jetified-flexbox-1.1.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/af27c2b1b7e84fe3d09f268cac917e2b/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/af27c2b1b7e84fe3d09f268cac917e2b/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.scottyab:secure-preferences-lib:0.1.7] /home/tops/.gradle/caches/transforms-2/files-2.1/398a73306eaa2b6723b0ec76619c46e0/jetified-secure-preferences-lib-0.1.7/AndroidManifest.xml:6:5-8:41
+MERGED from [com.scottyab:secure-preferences-lib:0.1.7] /home/tops/.gradle/caches/transforms-2/files-2.1/398a73306eaa2b6723b0ec76619c46e0/jetified-secure-preferences-lib-0.1.7/AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/tops/.gradle/caches/transforms-2/files-2.1/4cc2156f487f2559b70c4999342b7505/jetified-rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/tops/.gradle/caches/transforms-2/files-2.1/4cc2156f487f2559b70c4999342b7505/jetified-rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [com.scottyab:aes-crypto:0.0.5] /home/tops/.gradle/caches/transforms-2/files-2.1/f5aad294bfcf416b6a47cc5e3d223b96/jetified-aes-crypto-0.0.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.scottyab:aes-crypto:0.0.5] /home/tops/.gradle/caches/transforms-2/files-2.1/f5aad294bfcf416b6a47cc5e3d223b96/jetified-aes-crypto-0.0.5/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:357:13-359:57
+	android:resource
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:359:17-54
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:358:17-67
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:17:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:com.google.firebase.inappmessaging.display.FirebaseInAppMessagingDisplayRegistrar
+ADDED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:19:17-144
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/e4616c6cc4c3db7d3cae6bc931b90afe/jetified-play-services-measurement-impl-17.5.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.inappmessaging.FirebaseInAppMessagingRegistrar
+ADDED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:18:17-129
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:14:17-109
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+activity#com.jakewharton.processphoenix.ProcessPhoenix
+ADDED from [com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:8:9-11:75
+	android:process
+		ADDED from [com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:10:13-39
+	android:theme
+		ADDED from [com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:9:13-73

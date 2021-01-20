@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "hashengineering.darkcoin.wallet",
+  "variantName": "processProdDebugResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 70201,
+      "versionName": "7.2.1",
+      "outputFile": "wallet-prod-debug.apk"
+    }
+  ]
+}

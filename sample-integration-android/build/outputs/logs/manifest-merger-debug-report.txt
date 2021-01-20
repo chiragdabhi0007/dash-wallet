@@ -1,0 +1,72 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/525a711defec5db8b7d006d3e210ce54/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:3:5-54
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:5:5-30
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:4:5-28
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+uses-feature#android.hardware.touchscreen
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:8:9-52
+supports-screens
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:11:5-15:39
+	android:largeScreens
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:12:9-34
+application
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:17:2-29:19
+	android:label
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:17:15-57
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:18:9-61
+activity#de.schildbach.wallet.integration.sample.SampleActivity
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:20:3-28:20
+	android:theme
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:22:4-46
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:21:4-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:23:4-27:29
+action#android.intent.action.MAIN
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:24:5-57
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:24:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/525a711defec5db8b7d006d3e210ce54/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/tops/.gradle/caches/transforms-2/files-2.1/525a711defec5db8b7d006d3e210ce54/multidex-2.0.1/AndroidManifest.xml:20:5-43
+INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+		ADDED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml
+		INJECTED from /home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/sample-integration-android/AndroidManifest.xml

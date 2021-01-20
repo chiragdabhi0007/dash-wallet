@@ -1,0 +1,9 @@
+de/schildbach/wallet/integration/sample/SampleActivity.java
+ de.schildbach.wallet.integration.sample.SampleActivity
+ de.schildbach.wallet.integration.sample.SampleActivity$1
+ de.schildbach.wallet.integration.sample.SampleActivity$2
+ de.schildbach.wallet.integration.sample.SampleActivity$3
+ de.schildbach.wallet.integration.sample.SampleActivity$4
+ de.schildbach.wallet.integration.sample.SampleActivity$5
+de/schildbach/wallet/integration/sample/BuildConfig.java
+ de.schildbach.wallet.integration.sample.BuildConfig

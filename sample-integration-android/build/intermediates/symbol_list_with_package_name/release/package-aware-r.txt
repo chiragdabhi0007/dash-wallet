@@ -1,0 +1,10 @@
+de.schildbach.wallet.integration.sample
+id sample_donate_button
+id sample_donate_message
+id sample_network_mainnet
+id sample_network_testnet
+id sample_request_button
+id sample_send_address_request
+id sample_send_payment_request
+id sample_send_public_key_request
+layout sample_activity

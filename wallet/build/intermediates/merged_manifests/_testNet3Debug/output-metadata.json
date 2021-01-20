@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "MERGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "hashengineering.darkcoin.wallet_test",
+  "variantName": "_testNet3Debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 70201,
+      "versionName": "7.2.1",
+      "outputFile": "AndroidManifest.xml"
+    }
+  ]
+}

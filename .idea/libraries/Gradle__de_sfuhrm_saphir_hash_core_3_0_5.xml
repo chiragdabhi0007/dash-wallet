@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: de.sfuhrm:saphir-hash-core:3.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.sfuhrm/saphir-hash-core/3.0.5/b618a7ea48adbca7e3c444e4d0f4297bfe337591/saphir-hash-core-3.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.sfuhrm/saphir-hash-core/3.0.5/2638857ba1cb6d8a9b4ca36b176cfddf2d1515ee/saphir-hash-core-3.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.sfuhrm/saphir-hash-core/3.0.5/ff9853047c3d5d11a753d984d3aa24b9cf578feb/saphir-hash-core-3.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

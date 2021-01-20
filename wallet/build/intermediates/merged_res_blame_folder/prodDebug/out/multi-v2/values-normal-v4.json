@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/incremental/mergeProdDebugResources/merged.dir/values-normal-v4/values-normal-v4.xml",
+            "map": [
+                {
+                    "source": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/res/values-normal/layouts.xml",
+                    "from": {
+                        "startLines": "7,8,3,5,6,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "393,461,56,211,299,117",
+                        "endColumns": "67,59,60,87,93,93",
+                        "endOffsets": "456,516,112,294,388,206"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,123,183,244,332,426",
+                        "endColumns": "67,59,60,87,93,93",
+                        "endOffsets": "118,178,239,327,421,515"
+                    }
+                }
+            ]
+        }
+    ]
+}

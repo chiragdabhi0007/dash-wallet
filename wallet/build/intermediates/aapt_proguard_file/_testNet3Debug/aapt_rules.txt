@@ -1,0 +1,288 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class androidx.core.content.FileProvider { <init>(); }
+-keep class androidx.lifecycle.ProcessLifecycleOwnerInitializer { <init>(); }
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+-keep class androidx.work.impl.WorkManagerInitializer { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.RescheduleReceiver { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.SystemAlarmService { <init>(); }
+-keep class androidx.work.impl.background.systemjob.SystemJobService { <init>(); }
+-keep class androidx.work.impl.diagnostics.DiagnosticsReceiver { <init>(); }
+-keep class androidx.work.impl.foreground.SystemForegroundService { <init>(); }
+-keep class androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver { <init>(); }
+-keep class com.e.liquid_integration.ui.BuyDashCryptoActivity { <init>(); }
+-keep class com.e.liquid_integration.ui.BuyDashWithCreditCardActivity { <init>(); }
+-keep class com.e.liquid_integration.ui.BuyDashWithCryptoCurrencyActivity { <init>(); }
+-keep class com.e.liquid_integration.ui.LiquidBuyAndSellDashActivity { <init>(); }
+-keep class com.e.liquid_integration.ui.LiquidLoginActivity { <init>(); }
+-keep class com.e.liquid_integration.ui.LiquidSplashActivity { <init>(); }
+-keep class com.e.liquid_integration.ui.SellDashActivity { <init>(); }
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+-keep class com.jakewharton.processphoenix.ProcessPhoenix { <init>(); }
+-keep class com.squareup.picasso.PicassoProvider { <init>(); }
+-keep class de.schildbach.wallet.WalletApplication { <init>(); }
+-keep class de.schildbach.wallet.WalletBalanceWidgetProvider { <init>(); }
+-keep class de.schildbach.wallet.data.AddressBookProvider { <init>(); }
+-keep class de.schildbach.wallet.offline.AcceptBluetoothService { <init>(); }
+-keep class de.schildbach.wallet.service.BlockchainServiceImpl { <init>(); }
+-keep class de.schildbach.wallet.service.BlockchainSyncJobService { <init>(); }
+-keep class de.schildbach.wallet.service.BootstrapReceiver { <init>(); }
+-keep class de.schildbach.wallet.service.InactivityNotificationService { <init>(); }
+-keep class de.schildbach.wallet.service.UpgradeWalletService { <init>(); }
+-keep class de.schildbach.wallet.ui.AboutActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.AddressBookActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.AdvancedSecurityActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.AppUpgradeActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.BlockInfoActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.BuyAndSellLiquidUpholdActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.ExchangeRatesActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.ForgotPinActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.LiquidDashToDashTransferActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.LiquidTransferActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.LockScreenActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.MoreActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.NetworkMonitorActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.OnboardingActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.PaymentsActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.QuickReceiveActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.ReceiveActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.RequestCoinsActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.RestoreWalletActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.RestoreWalletFromSeedActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.SecurityActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.SendCoinsQrActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.SetPinActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.SettingsActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.ToolsActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.TransactionResultActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.UpholdTransferActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.VerifySeedActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.ViewSeedActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.WalletActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.WalletUriHandlerActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.WelcomeActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.preference.PreferenceActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.scan.ScanActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.send.SendCoinsActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.send.SendCoinsInternalActivity { <init>(); }
+-keep class de.schildbach.wallet.ui.send.SweepWalletActivity { <init>(); }
+-keep class org.dash.wallet.integration.uphold.ui.UpholdAccountActivity { <init>(); }
+-keep class org.dash.wallet.integration.uphold.ui.UpholdSplashActivity { <init>(); }
+-keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.LinearLayoutCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.SearchView { <init>(android.content.Context); }
+
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.SwitchCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.cardview.widget.CardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.widget.Guideline { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.core.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.preference.UnPressableLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.preference.internal.PreferenceImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.viewpager.widget.ViewPager { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.flexbox.FlexboxLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.appbar.CollapsingToolbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.appbar.MaterialToolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.button.MaterialButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.chip.Chip { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.chip.ChipGroup { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.datepicker.MaterialCalendarGridView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.floatingactionbutton.FloatingActionButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.navigation.NavigationView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.tabs.TabItem { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.tabs.TabLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textview.MaterialTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.firebase.inappmessaging.display.internal.ResizableImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.firebase.inappmessaging.display.internal.layout.CardLayoutLandscape { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.firebase.inappmessaging.display.internal.layout.CardLayoutPortrait { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.firebase.inappmessaging.display.internal.layout.FiamCardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.firebase.inappmessaging.display.internal.layout.FiamFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.firebase.inappmessaging.display.internal.layout.FiamRelativeLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.firebase.inappmessaging.display.internal.layout.ModalLayoutLandscape { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.firebase.inappmessaging.display.internal.layout.ModalLayoutPortrait { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.tbuonomo.viewpagerdotsindicator.DotsIndicator { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.BlockListFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.EnterAmountFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.ExchangeRatesFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.ExtAppBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.HeaderBalanceFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.PeerListFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.RequestCoinsFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.WalletActionsFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.WalletAddressFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.WalletBalanceFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.WalletBalanceToolbarFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.WalletDisclaimerFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.WalletTransactionsFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.preference.AboutFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.preference.DiagnosticsFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.preference.SettingsFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.scan.ScannerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.send.SendCoinsFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.send.SweepWalletFragment { <init>(); }
+
+-keep class de.schildbach.wallet.ui.widget.CustomSeekBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.widget.FingerprintView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.widget.GlobalFooterView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.widget.MontserratCheckBox { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.widget.NumericKeyboardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.widget.PaymentRequestWaitErrorView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.widget.PaymentsButtonView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.widget.PinPreviewView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.widget.ReceiveInfoView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class de.schildbach.wallet.ui.widget.ShortcutsPane { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.dash.wallet.common.ui.CurrencyAmountView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.dash.wallet.common.ui.CurrencyTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class org.dash.wallet.ui.widget.LockScreenButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keepclassmembers class * { *** backupWallet(android.view.View); }
+
+-keepclassmembers class * { *** changePin(android.view.View); }
+
+-keepclassmembers class * { *** openAdvancedSecurity(android.view.View); }
+
+-keepclassmembers class * { *** resetToDefault(android.view.View); }
+
+-keepclassmembers class * { *** resetWallet(android.view.View); }
+
+-keepclassmembers class * { *** viewRecoveryPhrase(android.view.View); }
+

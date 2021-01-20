@@ -1,0 +1,10 @@
+Executable : /home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/_testNet3Debug/armeabi-v7a
+dashjbls
+pthread
+scrypt
+x11
+jvmArgs : 
+

@@ -1,0 +1,84 @@
+{
+  "buildFiles": [
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/CMakeLists.txt",
+    "/home/tops/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/tops/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/CMakeLists.txt",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures-src.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/CMakeLists.txt",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/arch.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/bn.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/fp.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/fpx.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/fb.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/ep.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/eb.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/ed.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/ec.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/pp.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/md.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/cp.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/rand.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/include/relic_conf.h.in",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/doxygen.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "relic_s-Debug-x86_64": {
+      "artifactName": "relic_s",
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64\" relic_s",
+      "abi": "x86_64",
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64/dashj-bls/bls-signatures/contrib/relic/lib/librelic_s.a",
+      "runtimeFiles": []
+    },
+    "bls-Debug-x86_64": {
+      "artifactName": "bls",
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64\" bls",
+      "abi": "x86_64",
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64/dashj-bls/libbls.a",
+      "runtimeFiles": []
+    },
+    "dashjbls-Debug-x86_64": {
+      "artifactName": "dashjbls",
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64\" dashjbls",
+      "abi": "x86_64",
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/cmake/evonetDebug/obj/x86_64/libdashjbls.so",
+      "runtimeFiles": [
+        "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/cmake/evonetDebug/obj/x86_64/libpthread.so"
+      ]
+    },
+    "scrypt-Debug-x86_64": {
+      "artifactName": "scrypt",
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64\" scrypt",
+      "abi": "x86_64",
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/cmake/evonetDebug/obj/x86_64/libscrypt.so",
+      "runtimeFiles": []
+    },
+    "x11-Debug-x86_64": {
+      "artifactName": "x11",
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64\" x11",
+      "abi": "x86_64",
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/cmake/evonetDebug/obj/x86_64/libx11.so",
+      "runtimeFiles": []
+    },
+    "blstmp-Debug-x86_64": {
+      "artifactName": "blstmp",
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64\" blstmp",
+      "abi": "x86_64",
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64/dashj-bls/libblstmp.a",
+      "runtimeFiles": []
+    },
+    "pthread-Debug-x86_64": {
+      "artifactName": "pthread",
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/evonetDebug/x86_64\" pthread",
+      "abi": "x86_64",
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/cmake/evonetDebug/obj/x86_64/libpthread.so",
+      "runtimeFiles": []
+    }
+  }
+}

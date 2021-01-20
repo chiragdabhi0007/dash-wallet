@@ -1,0 +1,936 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="hashengineering.dash.wallet.beta"
+4    android:installLocation="internalOnly"
+5    android:versionCode="70201"
+6    android:versionName="7.2.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="19"
+9-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml
+11    <!-- normal permissions -->
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:9:5-67
+12-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:9:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:10:5-79
+13-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:10:22-76
+14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+14-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:11:5-81
+14-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:11:22-78
+15    <uses-permission android:name="android.permission.BLUETOOTH" />
+15-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:12:5-68
+15-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:12:22-65
+16    <uses-permission android:name="android.permission.NFC" />
+16-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:13:5-62
+16-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:13:22-59
+17    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+17-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:14:5-74
+17-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:14:22-71
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:15:5-66
+18-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:15:22-63
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:16:5-68
+19-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:16:22-65
+20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- dangerous permissions -->
+20-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:17:5-77
+20-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:17:22-74
+21    <uses-permission android:name="android.permission.CAMERA" /> <!-- group: CAMERA -->
+21-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:18:5-65
+21-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:18:22-62
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- group: STORAGE -->
+22-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:19:5-81
+22-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:19:22-78
+23    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- group: STORAGE -->
+23-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:20:5-80
+23-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:20:22-77
+24    <uses-feature
+24-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:21:5-23:36
+25        android:name="android.hardware.touchscreen"
+25-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:22:9-52
+26        android:required="false" />
+26-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:23:9-33
+27    <uses-feature
+27-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:24:5-26:36
+28        android:name="android.hardware.nfc"
+28-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:25:9-44
+29        android:required="false" />
+29-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:26:9-33
+30    <uses-feature
+30-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:27:5-29:36
+31        android:name="android.hardware.camera"
+31-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:28:9-47
+32        android:required="false" />
+32-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:29:9-33
+33    <uses-feature
+33-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:30:5-32:36
+34        android:name="android.hardware.camera.front"
+34-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:31:9-53
+35        android:required="false" />
+35-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:32:9-33
+36    <uses-feature
+36-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:33:5-35:36
+37        android:name="android.hardware.camera.autofocus"
+37-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:34:9-57
+38        android:required="false" />
+38-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:35:9-33
+39    <uses-feature
+39-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:36:5-38:36
+40        android:name="android.hardware.camera.flash"
+40-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:37:9-53
+41        android:required="false" />
+41-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:38:9-33
+42    <uses-feature
+42-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:39:5-41:36
+43        android:name="android.hardware.screen.landscape"
+43-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:40:9-57
+44        android:required="false" />
+44-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:41:9-33
+45    <uses-feature
+45-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:42:5-44:36
+46        android:name="android.hardware.bluetooth"
+46-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:43:9-50
+47        android:required="false" />
+47-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:44:9-33
+48
+49    <supports-screens
+49-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:46:5-51:40
+50        android:anyDensity="true"
+50-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:47:9-34
+51        android:largeScreens="true"
+51-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:48:9-36
+52        android:normalScreens="true"
+52-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:49:9-37
+53        android:smallScreens="true"
+53-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:50:9-36
+54        android:xlargeScreens="true" />
+54-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:51:9-37
+55
+56    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+56-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:26:5-110
+56-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:26:22-107
+57
+58    <application
+58-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:53:5-403:19
+59        android:name="de.schildbach.wallet.WalletApplication"
+59-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:54:9-62
+60        android:allowBackup="false"
+60-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:55:9-36
+61        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+61-->[androidx.core:core:1.5.0-alpha05] /home/tops/.gradle/caches/transforms-2/files-2.1/71bc70bf4e698187e56509b01728ba94/core-1.5.0-alpha05/AndroidManifest.xml:24:18-86
+62        android:debuggable="true"
+63        android:icon="@mipmap/ic_launcher"
+63-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:56:9-43
+64        android:label="@string/app_name"
+64-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:57:9-41
+65        android:largeHeap="true"
+65-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:58:9-33
+66        android:supportsRtl="true"
+66-->[com.tbuonomo.andrui:viewpagerdotsindicator:4.1.2] /home/tops/.gradle/caches/transforms-2/files-2.1/38ca9f18511ebcbf17e078872dddc07c/jetified-viewpagerdotsindicator-4.1.2/AndroidManifest.xml:11:18-44
+67        android:theme="@style/My.Theme" >
+67-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:59:9-40
+68        <activity
+68-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:61:9-63:61
+69            android:name="com.e.liquid_integration.ui.LiquidBuyAndSellDashActivity"
+69-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:62:13-84
+70            android:theme="@style/My.Theme.ChildActivity" />
+70-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:63:13-58
+71        <activity
+71-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:64:9-83:20
+72            android:name="com.e.liquid_integration.ui.LiquidSplashActivity"
+72-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:65:13-76
+73            android:theme="@style/My.Theme.ChildActivity" >
+73-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:66:13-58
+74
+75            <!--
+76            <intent-filter android:autoVerify="true">
+77                <action android:name="android.intent.action.VIEW" />
+78
+79                <category android:name="android.intent.category.DEFAULT" />
+80                <category android:name="android.intent.category.BROWSABLE" />
+81
+82
+83
+84                <data android:scheme="https" android:host="www.dash.org"/>
+85
+86            </intent-filter>
+87            -->
+88
+89        </activity>
+90        <activity
+90-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:86:9-88:61
+91            android:name="de.schildbach.wallet.ui.BuyAndSellLiquidUpholdActivity"
+91-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:87:13-82
+92            android:theme="@style/My.Theme.ChildActivity" />
+92-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:88:13-58
+93        <activity
+93-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:89:9-103:20
+94            android:name="de.schildbach.wallet.ui.OnboardingActivity"
+94-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:90:13-70
+95            android:screenOrientation="portrait"
+95-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:91:13-49
+96            android:theme="@style/SplashActivity.Theme" >
+96-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:92:13-56
+97            <intent-filter>
+97-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:93:13-98:29
+98                <action android:name="android.intent.action.MAIN" />
+98-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:94:17-69
+98-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:94:25-66
+99
+100                <category android:name="android.intent.category.LAUNCHER" />
+100-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:96:17-77
+100-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:96:27-74
+101                <category android:name="android.intent.category.DEFAULT" />
+101-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:17-76
+101-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:27-73
+102            </intent-filter>
+103
+104            <meta-data
+104-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:100:13-102:53
+105                android:name="android.app.shortcuts"
+105-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:101:17-53
+106                android:resource="@xml/shortcuts" />
+106-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:102:17-50
+107        </activity>
+108        <activity
+108-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:104:9-107:61
+109            android:name="de.schildbach.wallet.ui.VerifySeedActivity"
+109-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:105:13-70
+110            android:screenOrientation="portrait"
+110-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:106:13-49
+111            android:theme="@style/My.Theme.ChildActivity" />
+111-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:107:13-58
+112        <activity
+112-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:108:9-111:61
+113            android:name="de.schildbach.wallet.ui.ViewSeedActivity"
+113-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:109:13-68
+114            android:screenOrientation="portrait"
+114-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:110:13-49
+115            android:theme="@style/My.Theme.ChildActivity" />
+115-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:111:13-58
+116        <activity
+116-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:112:9-120:63
+117            android:name="de.schildbach.wallet.ui.WalletActivity"
+117-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:113:13-66
+118            android:configChanges="keyboard|keyboardHidden"
+118-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:114:13-60
+119            android:exported="true"
+119-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:115:13-36
+120            android:label="@string/app_name_short"
+120-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:116:13-51
+121            android:launchMode="singleTask"
+121-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:117:13-44
+122            android:screenOrientation="portrait"
+122-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:118:13-49
+123            android:theme="@style/My.Theme.NoStatusBar"
+123-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:119:13-56
+124            android:windowSoftInputMode="stateAlwaysHidden" />
+124-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:120:13-60
+125
+126        <activity-alias
+126-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:122:9-133:26
+127            android:name="de.schildbach.wallet.WalletActivity"
+127-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:123:13-63
+128            android:targetActivity="de.schildbach.wallet.ui.WalletActivity" >
+128-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:124:13-76
+129            <intent-filter>
+129-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:125:13-132:29
+130                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+130-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:126:17-77
+130-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:126:25-74
+131
+132                <data android:mimeType="application/x-drktx" />
+132-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+132-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:23-61
+133                <data android:mimeType="application/x-dashtx" />
+133-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+133-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:23-61
+134
+135                <category android:name="android.intent.category.DEFAULT" />
+135-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:17-76
+135-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:27-73
+136            </intent-filter>
+137        </activity-alias>
+138
+139        <activity
+139-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:135:9-139:61
+140            android:name="de.schildbach.wallet.ui.send.SendCoinsInternalActivity"
+140-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:136:13-82
+141            android:label="@string/pay_title"
+141-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:137:13-46
+142            android:screenOrientation="portrait"
+142-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:138:13-49
+143            android:theme="@style/My.Theme.ChildActivity" />
+143-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:139:13-58
+144        <activity
+144-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:140:9-165:20
+145            android:name="de.schildbach.wallet.ui.send.SendCoinsActivity"
+145-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:141:13-74
+146            android:label="@string/pay_title"
+146-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:142:13-46
+147            android:screenOrientation="portrait"
+147-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:143:13-49
+148            android:theme="@style/My.Theme.ChildActivity" >
+148-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:144:13-58
+149            <intent-filter android:label="@string/send_coins_activity_title" >
+149-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:146:13-155:29
+149-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:146:28-77
+150                <action android:name="android.intent.action.VIEW" />
+150-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:147:17-69
+150-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:147:25-66
+151
+152                <data android:scheme="dash" />
+152-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+152-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:149:23-44
+153                <data android:scheme="darkcoin" />
+153-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+153-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:149:23-44
+154                <data android:scheme="pay" />
+154-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+154-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:149:23-44
+155
+156                <category android:name="android.intent.category.DEFAULT" />
+156-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:17-76
+156-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:27-73
+157                <category android:name="android.intent.category.BROWSABLE" />
+157-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:154:17-78
+157-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:154:27-75
+158            </intent-filter>
+159            <intent-filter android:label="@string/send_coins_activity_title" >
+159-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:156:13-164:29
+159-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:156:28-77
+160                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+160-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:126:17-77
+160-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:126:25-74
+161
+162                <data android:scheme="dash" />
+162-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+162-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:149:23-44
+163                <data android:scheme="darkcoin" />
+163-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+163-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:149:23-44
+164                <data android:scheme="pay" />
+164-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+164-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:149:23-44
+165
+166                <category android:name="android.intent.category.DEFAULT" />
+166-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:17-76
+166-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:27-73
+167            </intent-filter>
+168        </activity>
+169        <activity
+169-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:166:9-170:59
+170            android:name="de.schildbach.wallet.ui.SendCoinsQrActivity"
+170-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:167:13-71
+171            android:configChanges="keyboard|keyboardHidden"
+171-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:168:13-60
+172            android:screenOrientation="portrait"
+172-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:169:13-49
+173            android:theme="@style/My.Theme.Transparent" />
+173-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:170:13-56
+174        <activity
+174-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:171:9-176:58
+175            android:name="de.schildbach.wallet.ui.RequestCoinsActivity"
+175-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:172:13-72
+176            android:configChanges="keyboard|keyboardHidden"
+176-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:173:13-60
+177            android:label="@string/request_coins_activity_title"
+177-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:174:13-65
+178            android:theme="@style/My.Theme.ChildActivity"
+178-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:175:13-58
+179            android:windowSoftInputMode="adjustResize" />
+179-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:176:13-55
+180        <activity
+180-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:177:9-181:61
+181            android:name="de.schildbach.wallet.ui.AddressBookActivity"
+181-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:178:13-71
+182            android:configChanges="keyboard|keyboardHidden"
+182-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:179:13-60
+183            android:label="@string/address_book_activity_title"
+183-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:180:13-64
+184            android:theme="@style/My.Theme.ChildActivity" />
+184-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:181:13-58
+185        <activity
+185-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:182:9-186:61
+186            android:name="de.schildbach.wallet.ui.ExchangeRatesActivity"
+186-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:183:13-73
+187            android:configChanges="keyboard|keyboardHidden"
+187-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:184:13-60
+188            android:label="@string/exchange_rates_activity_title"
+188-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:185:13-66
+189            android:theme="@style/My.Theme.ChildActivity" />
+189-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:186:13-58
+190        <activity
+190-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:187:9-191:61
+191            android:name="de.schildbach.wallet.ui.NetworkMonitorActivity"
+191-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:188:13-74
+192            android:configChanges="keyboard|keyboardHidden"
+192-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:189:13-60
+193            android:label="@string/network_monitor_activity_title"
+193-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:190:13-67
+194            android:theme="@style/My.Theme.ChildActivity" />
+194-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:191:13-58
+195        <activity
+195-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:192:9-195:61
+196            android:name="de.schildbach.wallet.ui.preference.PreferenceActivity"
+196-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:193:13-81
+197            android:label="@string/preferences_activity_title"
+197-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:194:13-63
+198            android:theme="@style/My.Theme.ChildActivity" />
+198-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:195:13-58
+199        <activity
+199-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:196:9-199:61
+200            android:name="de.schildbach.wallet.ui.BlockInfoActivity"
+200-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:197:13-69
+201            android:label="@string/block_info"
+201-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:198:13-47
+202            android:theme="@style/My.Theme.ChildActivity" />
+202-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:199:13-58
+203        <activity
+203-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:200:9-212:20
+204            android:name="de.schildbach.wallet.ui.RestoreWalletActivity"
+204-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:201:13-73
+205            android:configChanges="orientation|keyboard|keyboardHidden"
+205-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:202:13-72
+206            android:theme="@style/My.Theme.Dialog" >
+206-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:203:13-51
+207            <intent-filter android:label="@string/import_keys_intent_filter_action" >
+207-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:204:13-211:29
+207-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:204:28-84
+208                <action android:name="android.intent.action.VIEW" />
+208-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:147:17-69
+208-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:147:25-66
+209
+210                <category android:name="android.intent.category.DEFAULT" />
+210-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:17-76
+210-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:27-73
+211
+212                <data android:mimeType="application/x-darkcoin-wallet-backup" />
+212-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+212-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:23-61
+213                <data android:mimeType="application/x-dash-wallet-backup" />
+213-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+213-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:23-61
+214            </intent-filter>
+215        </activity>
+216        <activity
+216-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:213:9-218:63
+217            android:name="de.schildbach.wallet.ui.scan.ScanActivity"
+217-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:214:13-69
+218            android:configChanges="keyboard|keyboardHidden"
+218-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:215:13-60
+219            android:stateNotNeeded="true"
+219-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:216:13-42
+220            android:theme="@style/My.Theme.Fullscreen"
+220-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:217:13-55
+221            android:windowSoftInputMode="stateAlwaysHidden" />
+221-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:218:13-60
+222        <activity
+222-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:219:9-224:58
+223            android:name="de.schildbach.wallet.ui.send.SweepWalletActivity"
+223-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:220:13-76
+224            android:configChanges="keyboard|keyboardHidden"
+224-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:221:13-60
+225            android:label="@string/sweep_wallet_activity_title"
+225-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:222:13-64
+226            android:theme="@style/My.Theme.ChildActivity"
+226-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:223:13-58
+227            android:windowSoftInputMode="adjustResize" />
+227-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:224:13-55
+228        <activity
+228-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:225:9-237:20
+229            android:name="de.schildbach.wallet.ui.WalletUriHandlerActivity"
+229-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:226:13-76
+230            android:label="@string/app_name"
+230-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:227:13-45
+231            android:theme="@style/My.Theme.Transparent" >
+231-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:228:13-56
+232            <intent-filter>
+232-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:229:13-236:29
+233                <action android:name="android.intent.action.VIEW" />
+233-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:147:17-69
+233-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:147:25-66
+234
+235                <data android:scheme="dashwallet" />
+235-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:128:17-64
+235-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:149:23-44
+236
+237                <category android:name="android.intent.category.DEFAULT" />
+237-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:17-76
+237-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:97:27-73
+238                <category android:name="android.intent.category.BROWSABLE" />
+238-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:154:17-78
+238-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:154:27-75
+239            </intent-filter>
+240        </activity>
+241        <activity
+241-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:238:9-241:61
+242            android:name="org.dash.wallet.integration.uphold.ui.UpholdSplashActivity"
+242-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:239:13-86
+243            android:launchMode="singleTask"
+243-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:240:13-44
+244            android:theme="@style/My.Theme.ChildActivity" />
+244-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:241:13-58
+245        <activity
+245-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:242:9-244:61
+246            android:name="org.dash.wallet.integration.uphold.ui.UpholdAccountActivity"
+246-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:243:13-87
+247            android:theme="@style/My.Theme.ChildActivity" />
+247-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:244:13-58
+248        <activity
+248-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:245:9-248:63
+249            android:name="de.schildbach.wallet.ui.LockScreenActivity"
+249-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:246:13-70
+250            android:screenOrientation="portrait"
+250-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:247:13-49
+251            android:theme="@style/LockScreenActivity.Theme" />
+251-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:248:13-60
+252        <activity
+252-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:249:9-252:61
+253            android:name="de.schildbach.wallet.ui.SetPinActivity"
+253-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:250:13-66
+254            android:screenOrientation="portrait"
+254-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:251:13-49
+255            android:theme="@style/My.Theme.ChildActivity" />
+255-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:252:13-58
+256        <activity
+256-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:253:9-256:61
+257            android:name="de.schildbach.wallet.ui.MoreActivity"
+257-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:254:13-64
+258            android:screenOrientation="portrait"
+258-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:255:13-49
+259            android:theme="@style/My.Theme.ChildActivity" />
+259-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:256:13-58
+260        <activity
+260-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:257:9-260:61
+261            android:name="de.schildbach.wallet.ui.SecurityActivity"
+261-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:258:13-68
+262            android:screenOrientation="portrait"
+262-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:259:13-49
+263            android:theme="@style/My.Theme.ChildActivity" />
+263-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:260:13-58
+264        <activity
+264-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:261:9-265:58
+265            android:name="de.schildbach.wallet.ui.RestoreWalletFromSeedActivity"
+265-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:262:13-81
+266            android:screenOrientation="portrait"
+266-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:263:13-49
+267            android:theme="@style/My.Theme.ChildActivity"
+267-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:264:13-58
+268            android:windowSoftInputMode="adjustResize" />
+268-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:265:13-55
+269        <activity
+269-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:266:9-269:61
+270            android:name="de.schildbach.wallet.ui.AdvancedSecurityActivity"
+270-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:267:13-76
+271            android:screenOrientation="portrait"
+271-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:268:13-49
+272            android:theme="@style/My.Theme.ChildActivity" />
+272-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:269:13-58
+273        <activity
+273-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:270:9-273:61
+274            android:name="de.schildbach.wallet.ui.SettingsActivity"
+274-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:271:13-68
+275            android:screenOrientation="portrait"
+275-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:272:13-49
+276            android:theme="@style/My.Theme.ChildActivity" />
+276-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:273:13-58
+277        <activity
+277-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:274:9-277:61
+278            android:name="de.schildbach.wallet.ui.AboutActivity"
+278-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:275:13-65
+279            android:screenOrientation="portrait"
+279-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:276:13-49
+280            android:theme="@style/My.Theme.ChildActivity" />
+280-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:277:13-58
+281        <activity
+281-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:278:9-281:61
+282            android:name="de.schildbach.wallet.ui.ToolsActivity"
+282-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:279:13-65
+283            android:screenOrientation="portrait"
+283-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:280:13-49
+284            android:theme="@style/My.Theme.ChildActivity" />
+284-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:281:13-58
+285        <activity
+285-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:282:9-285:61
+286            android:name="de.schildbach.wallet.ui.PaymentsActivity"
+286-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:283:13-68
+287            android:screenOrientation="portrait"
+287-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:284:13-49
+288            android:theme="@style/My.Theme.ChildActivity" />
+288-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:285:13-58
+289        <activity
+289-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:286:9-289:61
+290            android:name="de.schildbach.wallet.ui.QuickReceiveActivity"
+290-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:287:13-72
+291            android:screenOrientation="portrait"
+291-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:288:13-49
+292            android:theme="@style/My.Theme.ChildActivity" />
+292-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:289:13-58
+293        <activity
+293-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:290:9-293:61
+294            android:name="de.schildbach.wallet.ui.ReceiveActivity"
+294-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:291:13-67
+295            android:screenOrientation="portrait"
+295-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:292:13-49
+296            android:theme="@style/My.Theme.ChildActivity" />
+296-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:293:13-58
+297        <activity
+297-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:294:9-297:58
+298            android:name="de.schildbach.wallet.ui.TransactionResultActivity"
+298-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:295:13-77
+299            android:screenOrientation="portrait"
+299-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:296:13-49
+300            android:theme="@style/My.Theme.Fullscreen" />
+300-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:297:13-55
+301        <activity
+301-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:298:9-301:61
+302            android:name="de.schildbach.wallet.ui.ForgotPinActivity"
+302-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:299:13-69
+303            android:screenOrientation="portrait"
+303-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:300:13-49
+304            android:theme="@style/My.Theme.ChildActivity" />
+304-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:301:13-58
+305        <activity
+305-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:302:9-305:63
+306            android:name="de.schildbach.wallet.ui.WelcomeActivity"
+306-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:303:13-67
+307            android:screenOrientation="portrait"
+307-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:304:13-49
+308            android:theme="@style/LockScreenActivity.Theme" />
+308-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:305:13-60
+309        <activity
+309-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:306:9-309:61
+310            android:name="de.schildbach.wallet.ui.UpholdTransferActivity"
+310-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:307:13-74
+311            android:screenOrientation="portrait"
+311-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:308:13-49
+312            android:theme="@style/My.Theme.ChildActivity" />
+312-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:309:13-58
+313        <activity
+313-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:310:9-313:63
+314            android:name="de.schildbach.wallet.ui.AppUpgradeActivity"
+314-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:311:13-70
+315            android:screenOrientation="portrait"
+315-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:312:13-49
+316            android:theme="@style/LockScreenActivity.Theme" />
+316-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:313:13-60
+317
+318        <!-- ///////////////////// -->
+319        <activity
+319-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:317:9-320:61
+320            android:name="com.e.liquid_integration.ui.BuyDashWithCreditCardActivity"
+320-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:318:13-85
+321            android:screenOrientation="portrait"
+321-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:319:13-49
+322            android:theme="@style/My.Theme.ChildActivity" />
+322-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:320:13-58
+323        <activity
+323-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:321:9-324:61
+324            android:name="com.e.liquid_integration.ui.BuyDashWithCryptoCurrencyActivity"
+324-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:322:13-89
+325            android:screenOrientation="portrait"
+325-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:323:13-49
+326            android:theme="@style/My.Theme.ChildActivity" />
+326-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:324:13-58
+327        <activity
+327-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:328:9-331:61
+328            android:name="com.e.liquid_integration.ui.LiquidLoginActivity"
+328-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:329:13-75
+329            android:screenOrientation="portrait"
+329-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:330:13-49
+330            android:theme="@style/My.Theme.ChildActivity" />
+330-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:331:13-58
+331        <activity
+331-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:333:9-336:61
+332            android:name="com.e.liquid_integration.ui.BuyDashCryptoActivity"
+332-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:334:13-77
+333            android:screenOrientation="portrait"
+333-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:335:13-49
+334            android:theme="@style/My.Theme.ChildActivity" />
+334-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:336:13-58
+335        <activity
+335-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:338:9-341:61
+336            android:name="com.e.liquid_integration.ui.SellDashActivity"
+336-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:339:13-72
+337            android:screenOrientation="portrait"
+337-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:340:13-49
+338            android:theme="@style/My.Theme.ChildActivity" />
+338-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:341:13-58
+339        <activity
+339-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:343:9-346:61
+340            android:name="de.schildbach.wallet.ui.LiquidTransferActivity"
+340-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:344:13-74
+341            android:screenOrientation="portrait"
+341-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:345:13-49
+342            android:theme="@style/My.Theme.ChildActivity" />
+342-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:346:13-58
+343
+344        <provider
+345            android:name="de.schildbach.wallet.data.AddressBookProvider"
+345-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:349:13-73
+346            android:authorities="hashengineering.dash.wallet.beta.address_book"
+346-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:350:13-64
+347            android:exported="false" />
+347-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:351:13-37
+348        <provider
+349            android:name="androidx.core.content.FileProvider"
+349-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:353:13-62
+350            android:authorities="hashengineering.dash.wallet.beta.file_attachment"
+350-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:354:13-67
+351            android:exported="false"
+351-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:355:13-37
+352            android:grantUriPermissions="true" >
+352-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:356:13-47
+353            <meta-data
+353-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:357:13-359:57
+354                android:name="android.support.FILE_PROVIDER_PATHS"
+354-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:358:17-67
+355                android:resource="@xml/file_provider" />
+355-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:359:17-54
+356        </provider>
+357
+358        <receiver
+358-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:362:9-372:20
+359            android:name="de.schildbach.wallet.WalletBalanceWidgetProvider"
+359-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:363:13-76
+360            android:label="@string/appwidget_wallet_balance_title" >
+360-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:364:13-67
+361            <intent-filter>
+361-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:365:13-367:29
+362                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+362-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:366:17-84
+362-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:366:25-81
+363            </intent-filter>
+364
+365            <meta-data
+365-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:369:13-371:65
+366                android:name="android.appwidget.provider"
+366-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:370:17-58
+367                android:resource="@xml/wallet_balance_widget" />
+367-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:371:17-62
+368        </receiver>
+369
+370        <service
+370-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:374:9-376:40
+371            android:name="de.schildbach.wallet.service.BlockchainServiceImpl"
+371-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:375:13-78
+372            android:exported="false" />
+372-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:376:13-37
+373        <service
+373-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:377:9-379:40
+374            android:name="de.schildbach.wallet.offline.AcceptBluetoothService"
+374-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:378:13-79
+375            android:exported="false" />
+375-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:379:13-37
+376
+377        <receiver android:name="de.schildbach.wallet.service.BootstrapReceiver" >
+377-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:381:9-388:20
+377-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:381:19-80
+378            <intent-filter>
+378-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:382:13-384:29
+379                <action android:name="android.intent.action.BOOT_COMPLETED" />
+379-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:383:17-79
+379-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:383:25-76
+380            </intent-filter>
+381            <intent-filter>
+381-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:385:13-387:29
+382                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+382-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:386:17-84
+382-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:386:25-81
+383            </intent-filter>
+384        </receiver>
+385
+386        <service
+386-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:390:9-392:40
+387            android:name="de.schildbach.wallet.service.UpgradeWalletService"
+387-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:391:13-77
+388            android:exported="false" />
+388-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:392:13-37
+389        <service
+389-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:393:9-395:40
+390            android:name="de.schildbach.wallet.service.InactivityNotificationService"
+390-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:394:13-86
+391            android:exported="false" />
+391-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:395:13-37
+392        <service
+392-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:396:9-398:72
+393            android:name="de.schildbach.wallet.service.BlockchainSyncJobService"
+393-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:397:13-81
+394            android:permission="android.permission.BIND_JOB_SERVICE" />
+394-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:398:13-69
+395
+396        <meta-data
+396-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:400:9-402:36
+397            android:name="android.nfc.disable_beam_default"
+397-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:401:13-60
+398            android:value="true" />
+398-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/wallet/AndroidManifest.xml:402:13-33
+399
+400        <service
+400-->[com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:15:9-21:19
+401            android:name="com.google.firebase.components.ComponentDiscoveryService"
+401-->[com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:16:13-84
+402            android:directBootAware="true"
+402-->[com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
+403            android:exported="false" >
+403-->[com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:17:13-37
+404            <meta-data
+404-->[com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:18:13-20:85
+405                android:name="com.google.firebase.components:com.google.firebase.inappmessaging.display.FirebaseInAppMessagingDisplayRegistrar"
+405-->[com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:19:17-144
+406                android:value="com.google.firebase.components.ComponentRegistrar" />
+406-->[com.google.firebase:firebase-inappmessaging-display:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/c8888ff9cf3c85aa1dae00e3272ed513/jetified-firebase-inappmessaging-display-19.1.1/AndroidManifest.xml:20:17-82
+407            <meta-data
+407-->[com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:30:13-32:85
+408                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+408-->[com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:31:17-139
+409                android:value="com.google.firebase.components.ComponentRegistrar" />
+409-->[com.google.android.gms:play-services-measurement-api:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9c07f00f9023078acc1f1053cbb289be/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:32:17-82
+410            <meta-data
+410-->[com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:17:13-19:85
+411                android:name="com.google.firebase.components:com.google.firebase.inappmessaging.FirebaseInAppMessagingRegistrar"
+411-->[com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:18:17-129
+412                android:value="com.google.firebase.components.ComponentRegistrar" />
+412-->[com.google.firebase:firebase-inappmessaging:19.1.1] /home/tops/.gradle/caches/transforms-2/files-2.1/656c06dab46be43061158fa017c0686a/jetified-firebase-inappmessaging-19.1.1/AndroidManifest.xml:19:17-82
+413            <meta-data
+413-->[com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:13:13-15:85
+414                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+414-->[com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:14:17-109
+415                android:value="com.google.firebase.components.ComponentRegistrar" />
+415-->[com.google.firebase:firebase-abt:19.1.0] /home/tops/.gradle/caches/transforms-2/files-2.1/938c43385cf0bf0266cdb7158dbd14a8/jetified-firebase-abt-19.1.0/AndroidManifest.xml:15:17-82
+416            <meta-data
+416-->[com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:28:13-30:85
+417                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+417-->[com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:29:17-115
+418                android:value="com.google.firebase.components.ComponentRegistrar" />
+418-->[com.google.firebase:firebase-datatransport:17.0.8] /home/tops/.gradle/caches/transforms-2/files-2.1/e5ad3ed4c8133f5a92a7b6371e510df8/jetified-firebase-datatransport-17.0.8/AndroidManifest.xml:30:17-82
+419            <meta-data
+419-->[com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:17:13-19:85
+420                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+420-->[com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:18:17-127
+421                android:value="com.google.firebase.components.ComponentRegistrar" />
+421-->[com.google.firebase:firebase-installations:16.3.3] /home/tops/.gradle/caches/transforms-2/files-2.1/b20bcd5c433b6c9a89f394ba93f27cfd/jetified-firebase-installations-16.3.3/AndroidManifest.xml:19:17-82
+422        </service>
+423
+424        <receiver
+424-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:29:9-33:20
+425            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+425-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:30:13-85
+426            android:enabled="true"
+426-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:31:13-35
+427            android:exported="false" >
+427-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:32:13-37
+428        </receiver>
+429
+430        <service
+430-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:35:9-38:40
+431            android:name="com.google.android.gms.measurement.AppMeasurementService"
+431-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:36:13-84
+432            android:enabled="true"
+432-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:37:13-35
+433            android:exported="false" />
+433-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:38:13-37
+434        <service
+434-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:39:9-43:72
+435            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+435-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:40:13-87
+436            android:enabled="true"
+436-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:41:13-35
+437            android:exported="false"
+437-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:42:13-37
+438            android:permission="android.permission.BIND_JOB_SERVICE" />
+438-->[com.google.android.gms:play-services-measurement:17.5.0] /home/tops/.gradle/caches/transforms-2/files-2.1/83c945b1e0dc1de47d4719a9e9ad6fa6/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:43:13-69
+439
+440        <provider
+440-->[com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:26:9-31:39
+441            android:name="com.google.firebase.provider.FirebaseInitProvider"
+441-->[com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:27:13-77
+442            android:authorities="hashengineering.dash.wallet.beta.firebaseinitprovider"
+442-->[com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:28:13-72
+443            android:directBootAware="true"
+443-->[com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:29:13-43
+444            android:exported="false"
+444-->[com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:30:13-37
+445            android:initOrder="100" />
+445-->[com.google.firebase:firebase-common:19.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/4194f54e243efa11258b18d76e61ca9e/jetified-firebase-common-19.3.1/AndroidManifest.xml:31:13-36
+446
+447        <meta-data
+447-->[com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
+448            android:name="com.google.android.gms.version"
+448-->[com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58
+449            android:value="@integer/google_play_services_version" />
+449-->[com.google.android.gms:play-services-basement:17.3.0] /home/tops/.gradle/caches/transforms-2/files-2.1/9850df1745b827731f0a3d7ea1e9ee17/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
+450
+451        <service
+451-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:29:9-35:19
+452            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+452-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:30:13-103
+453            android:exported="false" >
+453-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:31:13-37
+454            <meta-data
+454-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:32:13-34:39
+455                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+455-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:33:17-94
+456                android:value="cct" />
+456-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/tops/.gradle/caches/transforms-2/files-2.1/9f25705cb7f1101cf9462c541772fc6f/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:34:17-36
+457        </service>
+458        <service
+458-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+459            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+459-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+460            android:exported="false"
+460-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+461            android:permission="android.permission.BIND_JOB_SERVICE" >
+461-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+462        </service>
+463
+464        <receiver
+464-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+465            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+465-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+466            android:exported="false" />
+466-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/5ed2dcec21830236a1305136c034905b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+467
+468        <provider
+468-->[com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+469            android:name="com.squareup.picasso.PicassoProvider"
+469-->[com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+470            android:authorities="hashengineering.dash.wallet.beta.com.squareup.picasso"
+470-->[com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+471            android:exported="false" />
+471-->[com.squareup.picasso:picasso:2.71828] /home/tops/.gradle/caches/transforms-2/files-2.1/e570592bc95b3ca1e0df36dd6a00d39a/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+472        <provider
+472-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+473            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+473-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+474            android:authorities="hashengineering.dash.wallet.beta.lifecycle-process"
+474-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+475            android:exported="false"
+475-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+476            android:multiprocess="true" />
+476-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/tops/.gradle/caches/transforms-2/files-2.1/d4914259c7bbf5301d3c3e3fa26cfb70/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+477
+478        <service
+478-->[androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+479            android:name="androidx.room.MultiInstanceInvalidationService"
+479-->[androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+480            android:directBootAware="true"
+480-->[androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+481            android:exported="false" />
+481-->[androidx.room:room-runtime:2.2.5] /home/tops/.gradle/caches/transforms-2/files-2.1/86b3a7f542ce442a22a87ea6cdcb71a2/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+482
+483        <activity
+483-->[com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:8:9-11:75
+484            android:name="com.jakewharton.processphoenix.ProcessPhoenix"
+484-->[com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:9:13-73
+485            android:process=":phoenix"
+485-->[com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:10:13-39
+486            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+486-->[com.jakewharton:process-phoenix:2.0.0] /home/tops/.gradle/caches/transforms-2/files-2.1/03566552023cb078d9cc17c34b5232de/jetified-process-phoenix-2.0.0/AndroidManifest.xml:11:13-72
+487    </application>
+488
+489</manifest>

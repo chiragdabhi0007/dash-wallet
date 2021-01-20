@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dashwallet_android_ClienGit.iml" filepath="$PROJECT_DIR$/.idea/modules/dashwallet_android_ClienGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dashwallet_android_ClienGit.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dashwallet_android_ClienGit.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/integration-android/dashwallet_android_ClienGit.integration-android.iml" filepath="$PROJECT_DIR$/.idea/modules/integration-android/dashwallet_android_ClienGit.integration-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liquid-integration/dashwallet_android_ClienGit.liquid-integration.iml" filepath="$PROJECT_DIR$/.idea/modules/liquid-integration/dashwallet_android_ClienGit.liquid-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample-integration-android/dashwallet_android_ClienGit.sample-integration-android.iml" filepath="$PROJECT_DIR$/.idea/modules/sample-integration-android/dashwallet_android_ClienGit.sample-integration-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ui-redesign/dashwallet_android_ClienGit.ui-redesign.iml" filepath="$PROJECT_DIR$/.idea/modules/ui-redesign/dashwallet_android_ClienGit.ui-redesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uphold-integration/dashwallet_android_ClienGit.uphold-integration.iml" filepath="$PROJECT_DIR$/.idea/modules/uphold-integration/dashwallet_android_ClienGit.uphold-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wallet/dashwallet_android_ClienGit.wallet.iml" filepath="$PROJECT_DIR$/.idea/modules/wallet/dashwallet_android_ClienGit.wallet.iml" />
+    </modules>
+  </component>
+</project>

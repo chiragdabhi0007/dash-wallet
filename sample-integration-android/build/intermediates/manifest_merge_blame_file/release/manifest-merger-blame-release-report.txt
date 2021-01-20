@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.schildbach.wallet.integration.sample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:minSdkVersion="15" />
+7-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml
+8
+9    <uses-feature
+9-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:7:5-9:36
+10        android:name="android.hardware.touchscreen"
+10-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:8:9-52
+11        android:required="false" />
+11-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:9:9-33
+12
+13    <supports-screens
+13-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:11:5-15:39
+14        android:anyDensity="true"
+14-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:12:9-34
+15        android:largeScreens="true"
+15-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:13:9-36
+16        android:normalScreens="true"
+16-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:14:9-37
+17        android:smallScreens="true" />
+17-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:15:9-36
+18
+19    <application
+19-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:17:2-29:19
+20        android:name="androidx.multidex.MultiDexApplication"
+20-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:18:9-61
+21        android:label="Dash in-app payment sample" >
+21-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:17:15-57
+22        <activity
+22-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:20:3-28:20
+23            android:name="de.schildbach.wallet.integration.sample.SampleActivity"
+23-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:21:4-73
+24            android:theme="@android:style/Theme.Light" >
+24-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:22:4-46
+25            <intent-filter>
+25-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:23:4-27:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:24:5-57
+26-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:24:13-54
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:26:17-77
+28-->/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/dash_wallet_New/sample-integration-android/AndroidManifest.xml:26:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

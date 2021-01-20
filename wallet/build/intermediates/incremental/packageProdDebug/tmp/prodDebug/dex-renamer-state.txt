@@ -1,0 +1,7 @@
+#Mon Jan 18 16:06:44 IST 2021
+base.0=/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/dex/prodDebug/minifyProdDebugWithR8/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/dex/prodDebug/minifyProdDebugWithR8/classes2.dex

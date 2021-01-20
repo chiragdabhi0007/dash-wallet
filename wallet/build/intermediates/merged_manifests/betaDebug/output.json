@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":70201,"versionName":"7.2.1","enabled":true,"outputFile":"dash-wallet-beta-debug.apk","fullName":"betaDebug","baseName":"beta-debug","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"hashengineering.dash.wallet.beta","split":"","minSdkVersion":"19"}}]

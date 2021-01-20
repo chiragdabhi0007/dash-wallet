@@ -1,0 +1,1238 @@
+{
+  "stringTable": {
+    "0": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dx11_EXPORTS -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DHAVE_CONFIG_H -DWORD=32 -O2 -DNDEBUG -fPIC",
+    "2": "--target=aarch64-none-linux-android21 --gcc-toolchain=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dx11_EXPORTS -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC",
+    "3": "--target=aarch64-none-linux-android21 --gcc-toolchain=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dscrypt_EXPORTS -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DHAVE_CONFIG_H -DWORD=32 -O2 -DNDEBUG -fPIC",
+    "4": "--target=aarch64-none-linux-android21 --gcc-toolchain=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dpthread_EXPORTS -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/. -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/bls-signatures/src -Idashj-bls/bls-signatures/contrib/relic/include -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/bls-signatures/contrib/relic/include -I/usr/include/aarch64-linux-android -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/include -Ibls-signatures/src/contrib/relic/include -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/contrib/catch -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -DHAVE_CONFIG_H -DWORD=32 -O2 -DNDEBUG -fPIC",
+    "5": "--target=aarch64-none-linux-android21 --gcc-toolchain=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/. -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/bls-signatures/src -Idashj-bls/bls-signatures/contrib/relic/include -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/bls-signatures/contrib/relic/include -I/usr/include/aarch64-linux-android -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/include -Ibls-signatures/src/contrib/relic/include -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/contrib/catch -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC -std=gnu++11",
+    "6": "--target=aarch64-none-linux-android21 --gcc-toolchain=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Ddashjbls_EXPORTS -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/. -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/bls-signatures/src -Idashj-bls/bls-signatures/contrib/relic/include -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/bls-signatures/contrib/relic/include -I/usr/include/aarch64-linux-android -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/include -Ibls-signatures/src/contrib/relic/include -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/contrib/catch -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC -std=gnu++11",
+    "7": "--target=aarch64-none-linux-android21 --gcc-toolchain=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/sysroot -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/. -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/bls-signatures/src -Idashj-bls/bls-signatures/contrib/relic/include -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/bls-signatures/contrib/relic/include -I/usr/include/aarch64-linux-android -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/include -I/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/include/low -pipe -std=c99 -Wall -O3 -funroll-loops -fomit-frame-pointer -pthread -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/CMakeLists.txt",
+    "/home/tops/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/tops/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/CMakeLists.txt",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures-src.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/CMakeLists.txt",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/arch.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/bn.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/fp.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/fpx.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/fb.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/ep.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/eb.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/ed.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/ec.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/pp.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/md.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/cp.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/rand.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/include/relic_conf.h.in",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/cmake/doxygen.cmake",
+    "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "dashjbls-Release-arm64-v8a": {
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a\" dashjbls",
+      "buildType": "release",
+      "toolchain": "4149918890",
+      "abi": "arm64-v8a",
+      "artifactName": "dashjbls",
+      "files": [
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/dashj-bls-signature-wrapper.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/stdio.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/cmake/prodRelease/obj/arm64-v8a/libdashjbls.so",
+      "runtimeFiles": [
+        "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/cmake/prodRelease/obj/arm64-v8a/libpthread.so"
+      ]
+    },
+    "bls-Release-arm64-v8a": {
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a\" bls",
+      "buildType": "release",
+      "toolchain": "4149918890",
+      "abi": "arm64-v8a",
+      "artifactName": "bls",
+      "files": [
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/chaincode.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a/dashj-bls/libbls.a"
+    },
+    "scrypt-Release-arm64-v8a": {
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a\" scrypt",
+      "buildType": "release",
+      "toolchain": "4149918890",
+      "abi": "arm64-v8a",
+      "artifactName": "scrypt",
+      "files": [
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/scrypt_jni.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/crypto_scrypt-nosse.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/sha256.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/cmake/prodRelease/obj/arm64-v8a/libscrypt.so",
+      "runtimeFiles": []
+    },
+    "blstmp-Release-arm64-v8a": {
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a\" blstmp",
+      "buildType": "release",
+      "toolchain": "4149918890",
+      "abi": "arm64-v8a",
+      "artifactName": "blstmp",
+      "files": [
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/extendedpublickey.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/extendedprivatekey.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/chaincode.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/signature.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/publickey.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/privatekey.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/bls.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/src/aggregationinfo.cpp",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a/dashj-bls/libblstmp.a"
+    },
+    "pthread-Release-arm64-v8a": {
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a\" pthread",
+      "buildType": "release",
+      "toolchain": "4149918890",
+      "abi": "arm64-v8a",
+      "artifactName": "pthread",
+      "files": [
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/pthread.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/cmake/prodRelease/obj/arm64-v8a/libpthread.so",
+      "runtimeFiles": []
+    },
+    "relic_s-Release-arm64-v8a": {
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a\" relic_s",
+      "buildType": "release",
+      "toolchain": "4149918890",
+      "abi": "arm64-v8a",
+      "artifactName": "relic_s",
+      "files": [
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/relic_err.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/relic_core.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/relic_conf.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/relic_pool.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/relic_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/arch/relic_arch_none.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/rand/relic_rand_core.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/rand/relic_rand_hash.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_add.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_cmp.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_div.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_factor.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_gcd.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_lcm.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_mem.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_mod.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_mxp.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_prime.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_rec.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_shift.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_smb.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_sqr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_srt.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bn/relic_bn_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/dv/relic_dv_mem.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/dv/relic_dv_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_add.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_cmp.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_exp.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_inv.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_param.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_prime.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_rdc.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_shift.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_sqr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_srt.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fp/relic_fp_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fp12_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fp12_sqr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fp18_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fp18_sqr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fp2_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fp2_sqr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fp3_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fp3_sqr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fp6_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fp6_sqr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fpx_add.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fpx_cmp.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fpx_exp.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fpx_frb.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fpx_inv.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fpx_pck.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fpx_rdc.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fpx_srt.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fpx/relic_fpx_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_add.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_cmp.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_exp.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_inv.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_itr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_param.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_poly.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_rdc.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_shift.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_slv.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_sqr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_srt.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_trc.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fb/relic_fb_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fbx/relic_fb2_inv.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fbx/relic_fb2_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fbx/relic_fb2_slv.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/fbx/relic_fb2_sqr.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_add.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_curve.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_dbl.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_map.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_mul_fix.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_mul_sim.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_neg.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_norm.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_param.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_pck.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ep/relic_ep_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_add.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_curve.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_dbl.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_frb.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_map.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_mul_fix.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_mul_sim.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_neg.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_norm.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_pck.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/epx/relic_ep2_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_add.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_curve.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_dbl.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_frb.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_hlv.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_map.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_mul_fix.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_mul_sim.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_neg.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_norm.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_param.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_pck.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/eb/relic_eb_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ed/relic_ed_add.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ed/relic_ed_curve.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ed/relic_ed_dbl.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ed/relic_ed_map.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ed/relic_ed_mul.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ed/relic_ed_mul_fix.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ed/relic_ed_mul_sim.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ed/relic_ed_param.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ed/relic_ed_pck.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/ed/relic_ed_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/pp/relic_pp_add.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/pp/relic_pp_dbl.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/pp/relic_pp_exp.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/pp/relic_pp_map.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/pp/relic_pp_norm.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/pc/relic_pc_util.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_rsa.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_rabin.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_bdpe.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_phpe.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_ecdh.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_ecmqv.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_ecies.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_ecdsa.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_ecss.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_vbnn_ibs.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_sokaka.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_bgn.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_ibe.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_bls.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_bbs.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/cp/relic_cp_zss.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bc/relic_bc_aes.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bc/rijndael-alg-fst.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/bc/rijndael-api-fst.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/blake2s-ref.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/relic_md_blake2s.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/relic_md_hmac.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/relic_md_kdf.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/relic_md_mgf.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/relic_md_sha1.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/relic_md_sha224.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/relic_md_sha256.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/relic_md_sha384.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/relic_md_sha512.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/sha1.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/sha224-256.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/md/sha384-512.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_bn_add_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_bn_cmp_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_bn_div_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_bn_mod_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_bn_mul_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_bn_shift_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_bn_sqr_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fp_add_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fp_cmp_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fp_inv_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fp_mul_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fp_rdc_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fp_shift_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fp_sqr_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fpx_add_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fpx_mul_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fpx_rdc_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fpx_sqr_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_add_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_cmp_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_inv_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_itr_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_mul_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_rdc_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_shift_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_slv_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_sqr_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_srt_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/dashj-bls/bls-signatures/contrib/relic/src/low/easy/relic_fb_trc_low.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a/dashj-bls/bls-signatures/contrib/relic/lib/librelic_s.a"
+    },
+    "x11-Release-arm64-v8a": {
+      "buildCommand": "/home/tops/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/.cxx/cmake/prodRelease/arm64-v8a\" x11",
+      "buildType": "release",
+      "toolchain": "4149918890",
+      "abi": "arm64-v8a",
+      "artifactName": "x11",
+      "files": [
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/hashblock.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/aes_helper.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/blake.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/bmw.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/cubehash.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/echo.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/groestl.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/keccak.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/jh.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/luffa.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/shavite.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/simd.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/cpp/skein.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/tops/AndroidStudioProjects/ChiragProject/Dash/Code/New/28/dashwallet_android/wallet/build/intermediates/cmake/prodRelease/obj/arm64-v8a/libx11.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "4149918890": {
+      "cCompilerExecutable": "/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/tops/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
