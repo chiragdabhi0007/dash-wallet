@@ -37,6 +37,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 15 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex-instrumentation:2.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: org.dashj:dashj-core:0.17.5" level="project" />
     <orderEntry type="library" name="Gradle: org.dashj:dashj-bls:0.17.5" level="project" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:27.1-android" level="project" />
@@ -57,7 +58,6 @@
     <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.15.0" level="project" />
     <orderEntry type="library" name="Gradle: org.json:json:20180130" level="project" />
     <orderEntry type="library" name="Gradle: androidx.multidex:multidex:2.0.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex-instrumentation:2.0.0@aar" level="project" />
     <orderEntry type="module" module-name="dashwallet_android_ClienGit.integration-android" />
   </component>
 </module>
